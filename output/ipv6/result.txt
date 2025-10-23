@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-23 19:15:48,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-10-24 07:58:24,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -187,6 +187,7 @@ CHC家庭影院,https://shyd.695847.xyz/cms001/ch00000090990000001570/index.m3u8
 CHC影迷电影,https://shyd.695847.xyz/cms001/ch00000090990000001581/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=2025102308014542990736c6044d61a912c8f3b12dd45b&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20251023080145&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.83&SecurityKey=20251023080145&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=34668ef1828997f69db6793d8c4a1f6f&ddCalcu=f364ef62162a804ecf81d832987969b7df96
 CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=2025102318004206dc7c780ec042999fbf2133889f5421&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20251023180042&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.90&SecurityKey=20251023180042&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=36d72e21067600fe3823c84a39c1a34f&ddCalcu=f346e3d2a72120ce9231a04687c630208f3e
+CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=2025102406003283546f6b24ba460cb6e38bf0dd82357b&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20251024060032&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.88&SecurityKey=20251024060032&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=368da329dd89d39f3ca0b3d5b4604e71&ddCalcu=1376ee824d20a06342b95ddd38b90da3c93f
 
 📡卫视频道,#genre#
 广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520
