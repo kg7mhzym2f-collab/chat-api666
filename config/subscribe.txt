@@ -1,9 +1,26 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
-https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/iptv.txt
+https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/ipv4.txt
+https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/%E6%B9%96%E5%8C%97%E7%A7%BB%E5%8A%A8%E5%86%85%E7%BD%91.m3u
+https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/Moveonjoy.m3u
+https://raw.githubusercontent.com/hst1189/iptv-m3u/refs/heads/main/m3u/7_YueChan_Live/Adult.m3u
+https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/combined-playlist.m3u
+https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u
+https://kakaxi-1.asia/ipv4.txt
+https://raw.githubusercontent.com/vickdong1/iptv-/refs/heads/master/streams/fr_fashiontv.m3u
+https://raw.githubusercontent.com/mymsnn/DailyIPTV/refs/heads/main/outputs/full_raw.m3u
+https://raw.githubusercontent.com/newclews/iptvlist/refs/heads/main/iptv.m3u
+https://raw.githubusercontent.com/tangbojin/update_iptv/refs/heads/main/src/main/resources/my_tv.m3u
+https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/PlutoTV-All.m3u
+https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/TVPass.m3u
+https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/JapanTV.m3u8
+https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/LGTV-Schedule.m3u
+https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/Roku-All.m3u
+https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/xumo_playlist.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/uk.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/uk_rakuten.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_moveonjoy.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_pluto.m3u
+https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/alist/MMHY.txt
