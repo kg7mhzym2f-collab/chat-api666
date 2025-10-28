@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-28 08:14:47,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-10-28 11:26:50,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -528,33 +528,80 @@ CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415
 云南卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 
 📡港澳台频道,#genre#
+凤凰卫视中文台,https://smart.dxjc.pp.ua/smart.php?id=phoenixtv_hd&token=tmxk
+凤凰中文,https://smart.dxjc.pp.ua/smart.php?id=phoenixtv_hd&token=tmxk
+凤凰资讯,https://smart.dxjc.pp.ua/smart.php?id=phoenixinfo_hd&token=tmxk
+凤凰香港,https://smart.dxjc.pp.ua/smart.php?id=hkphoenix_twn&token=tmxk
+翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+翡翠台,https://smart.dxjc.pp.ua/smart.php?id=jade_twn&token=tmxk
+翡翠台,https://smart.dxjc.pp.ua/smart.php?id=Jade_xue&token=tmxk
+明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
+明珠台,https://smart.dxjc.pp.ua/smart.php?id=pearl_twn&token=tmxk
+TVBPLUS,https://smart.dxjc.pp.ua/smart.php?id=j2_twn&token=tmxk
+美亚电影,https://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
 TVBS精采台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv067
 TVBS新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv072
 TVBS新聞台,https://usiptv.esnad.dpdns.org/?id=tvbsnews
+TVB翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+TVB翡翠台,https://smart.dxjc.pp.ua/smart.php?id=jade_twn&token=tmxk
+TVB翡翠台,https://smart.dxjc.pp.ua/smart.php?id=Jade_xue&token=tmxk
 TVB无线星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB翡翠台 1080P,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 民視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv13
 中天新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv009
+中天新闻,https://smart.dxjc.pp.ua/smart.php?id=ctinews&token=tmxk
+中天综合,https://smart.dxjc.pp.ua/smart.php?id=ctizhonghe&token=tmxk
+中天娱乐,https://smart.dxjc.pp.ua/smart.php?id=ctient&token=tmxk
+中天亚洲,https://smart.dxjc.pp.ua/smart.php?id=ctiasia_twn&token=tmxk
 東森新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv152
+东森新闻台,https://smart.dxjc.pp.ua/smart.php?id=ettvnews&token=tmxk
+东森综合台,https://smart.dxjc.pp.ua/smart.php?id=ettvzhonghe&token=tmxk
+东森电影台,https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
+东森电影,https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
+TVBS HD,https://smart.dxjc.pp.ua/smart.php?id=tvbs&token=tmxk
 鏡電視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv075
 非凡新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv010
+非凡新闻,https://smart.dxjc.pp.ua/smart.php?id=feifannews_twn&token=tmxk
+AXN Taiwan,https://smart.dxjc.pp.ua/smart.php?id=axn_twn&token=tmxk
+HBO_HD,https://smart.dxjc.pp.ua/smart.php?id=hbohd_twn&token=tmxk
+HBO_HITS,https://smart.dxjc.pp.ua/smart.php?id=hbohit_twn&token=tmxk
+台視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv066
 台視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv051
 台視新聞台,https://usiptv.esnad.dpdns.org/?id=tsnews
+台视新闻,https://smart.dxjc.pp.ua/smart.php?id=ttvnews_twn&token=tmxk
+台视综合,https://smart.dxjc.pp.ua/smart.php?id=ttvzhonghe&token=tmxk
 華視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv052
 寰宇新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn14
 靖天資訊台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
 靖天育樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv062
 龍華電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn03
+三立台湾台,https://smart.dxjc.pp.ua/smart.php?id=sanlitaiwan&token=tmxk
+三立综合台,https://smart.dxjc.pp.ua/smart.php?id=sanlizhonghe&token=tmxk
+好萊塢電影台,https://smart.dxjc.pp.ua/smart.php?id=hollywoodmovies_twn&token=tmxk
 华丽翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 amc電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv017
 時尚運動X,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv014
 民視旅遊台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv07
-台視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv066
 中視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv040
+中视新闻,https://smart.dxjc.pp.ua/smart.php?id=zhongshinews_twn&token=tmxk
+中视经典,https://smart.dxjc.pp.ua/smart.php?id=zhongshi_twn&token=tmxk
 華視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv041
 民視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv155
 民視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv002
+民视新闻台,https://smart.dxjc.pp.ua/smart.php?id=ftvnew_taiwan&token=tmxk
 TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv073
+HBO Signature,http://ott.udptv.net/stream/iptv/hbosignature/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+HBO Signature,https://smart.dxjc.pp.ua/smart.php?id=Hbosignature&token=tmxk
+HBO Family,https://ott.udptv.net/stream/iptv/hbofamily/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+HBO Family,https://maldivesn.net/hilaytv/hbofamily
+HBO Family,https://smart.dxjc.pp.ua/smart.php?id=Hbofamily&token=tmxk
+HBO Hits,http://ott.udptv.net/stream/iptv/hbohits/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+HBO Hits,https://smart.dxjc.pp.ua/smart.php?id=Hbohitshd&token=tmxk
+Dreamworks,https://smart.dxjc.pp.ua/smart.php?id=Dreamworks&token=tmxk
+Thrill,http://ott.udptv.net/stream/iptv/thrill/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+Thrill,https://smart.dxjc.pp.ua/smart.php?id=Thrill&token=tmxk
+Hits Movies,https://ott.udptv.xyz/stream/astro/hitsmovies/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+Axn HD,https://smart.dxjc.pp.ua/smart.php?id=Axn&token=tmxk
 Kaloopy TV,https://maldivesn.net/hilaytv/kaloopy
 英雄联盟,https://live.ottiptv.cc/douyu/288016
 
@@ -614,6 +661,7 @@ CBS News 24/7,https://jmp2.uk/plu-6231ec4b62cd1f0007093c7b.m3u8
 CBS News 24/7,https://jmp2.uk/plu-6231e909bc960f00075d8e7c.m3u8
 CNN International,https://maldivesn.net/hilaytv/cnninternational
 CNN International,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+CNN International,https://smart.dxjc.pp.ua/smart.php?id=Cnn&token=tmxk
 CNN Headlines,https://jmp2.uk/ATBD190000101
 CNN Headlines,https://jmp2.uk/CHBD1900001JB
 CNN Headlines,https://jmp2.uk/DEBD19000012M
@@ -660,6 +708,7 @@ Discovery Channel,https://ott.udptv.xyz/stream/astro/discoverychannel/master.m3u
 Discovery Channel,https://maldivesn.net/hilaytv/discovery
 Discovery Science,https://maldivesn.net/hilaytv/discoveryscience
 Discovery Asia,https://ott.udptv.xyz/stream/astro/discoveryasia/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+Discovery Asia,https://smart.dxjc.pp.ua/smart.php?id=discoverytwn_twn&token=tmxk
 Investigation Discovery,https://maldivesn.net/hilaytv/investigationdiscovery
 Discovery Life,https://maldivesn.net/hilaytv/discoverylife
 Discovery TLC,https://maldivesn.net/hilaytv/tlc
@@ -683,6 +732,7 @@ Red Bull TV,https://ott.udptv.xyz/stream/udptv/redbulltv/master.m3u8?u=cocked&p=
 Red Bull TV,https://jmp2.uk/rok-c5e8a74546771de365652cd053f73351.m3u8
 Red Bull TV,https://jmp2.uk/stvp-ATBD1500003ES
 NBA TV,https://a1xs.vip/40000031
+NBA TV,https://smart.dxjc.pp.ua/smart.php?id=Nba&token=tmxk
 The NBA Channel,https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8
 The NBA Channel,https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383&ads._fw_ifa_type=&ads._fw_did=567ae927-a57c-4c31-9c2a-2da57ce93ed6&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951383&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 The NBA Channel,https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383&ads._fw_ifa_type=&ads._fw_did=31bcd4ac-9924-4b59-b126-212c062df46a&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951383&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
@@ -808,6 +858,7 @@ American Idol,https://jmp2.uk/stvp-GBBC2300001X5
 MTV HD,https://maldivesn.net/hilaytv/mtvplus
 MTV HD,https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8
 MTV Live,https://ott.udptv.xyz/stream/astro/mtvlive/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+MTV Live,https://smart.dxjc.pp.ua/smart.php?id=mtvhd_twn&token=tmxk
 MTV Music LIVE,https://maldivesn.net/hilaytv/mtvlive
 Brit Asia TV (1080p),https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
 Dance Moms,https://jmp2.uk/CA900005B8
@@ -895,6 +946,7 @@ HBO 2,https://maldivesn.net/hilaytv/hbo2
 HBO Zone,https://ott.udptv.net/stream/iptv/hbozone/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 HBO Zone,https://maldivesn.net/hilaytv/hbozone
 HBO HD,https://ott.udptv.net/stream/iptv/hbohd/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+HBO HD,https://smart.dxjc.pp.ua/smart.php?id=Hbo&token=tmxk
 Scares by Shudder,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_channelId=99951349&ads.channelId=99951349&ads.csid=xumo_web_AMCScaresbyShudder_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_ifa_type=&ads._fw_did=6140ec7a-df46-4b39-afcf-ea2d7bd91bd6&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4104&ads.xumo_contentName=AMCScaresbyShudder&ads.xumo_providerId=4104&ads.xumo_providerName=AMCScaresbyShudder&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 Scares by Shudder,https://jmp2.uk/rok-349e0f0840cf21b888bff327b41a2413.m3u8
 Scares by Shudder,https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-650b38f490baad1963ad96f9.m3u8
@@ -906,6 +958,8 @@ Scares by Shudder,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playl
 Sony PIX HD,https://dish.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 Sony Movie Channel,https://maldivesn.net/hilaytv/sonymoviech
 Cinemax,http://ott.udptv.net/stream/iptv/cinemax/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+Cinemax,https://smart.dxjc.pp.ua/smart.php?id=Cinemax&token=tmxk
+CINEMAX,https://smart.dxjc.pp.ua/smart.php?id=cinemax_twn&token=tmxk
 Stories by AMC,https://jmp2.uk/USBD2500018X6
 Stories by AMC,https://jmp2.uk/plu-62f2ce24f328e00007e7f55a.m3u8
 Stories by AMC,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99991622/hls/playlist.m3u8?ads.xumo_channelId=99991622&ads.channelId=99991622&ads.csid=xumo_web_storiesbyamc_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_ifa_type=&ads._fw_did=c57d56d3-5e09-48fe-9c02-39548c241438&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=2656&ads.xumo_contentName=storiesbyamc&ads.xumo_providerId=2656&ads.xumo_providerName=storiesbyamc&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
