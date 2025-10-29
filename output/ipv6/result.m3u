@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/kg7mhzym2f-collab/chat-api666/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-29 11:09:59
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-29 19:24:23
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1179,6 +1179,8 @@ https://ott.udptv.net/stream/iptv/hbofamily/master.m3u8?u=cocked&p=dd0abb52723d2
 https://maldivesn.net/hilaytv/hbofamily
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO Family.png" group-title="📡港澳台频道",HBO Family
 https://smart.dxjc.pp.ua/smart.php?id=Hbofamily&token=tmxk
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO Family.png" group-title="📡港澳台频道",HBO Family
+https://hilay.tv/l/hbofamily
 #EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO Hits.png" group-title="📡港澳台频道",HBO Hits
 http://ott.udptv.net/stream/iptv/hbohits/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO Hits.png" group-title="📡港澳台频道",HBO Hits
@@ -1197,6 +1199,8 @@ https://smart.dxjc.pp.ua/smart.php?id=Axn&token=tmxk
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Kaloopy TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Kaloopy TV.png" group-title="📡港澳台频道",Kaloopy TV
 https://maldivesn.net/hilaytv/kaloopy
+#EXTINF:-1 tvg-name="Kaloopy TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Kaloopy TV.png" group-title="📡港澳台频道",Kaloopy TV
+https://hilay.tv/l/kaloopy
 #EXTINF:-1 tvg-name="英雄联盟" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/英雄联盟.png" group-title="📡港澳台频道",英雄联盟
 https://live.ottiptv.cc/douyu/288016
 #EXTINF:-1 tvg-name="ABC 20/20" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ABC 20/20.png" group-title="📡国际频道",ABC 20/20
@@ -1311,6 +1315,8 @@ https://maldivesn.net/hilaytv/cnninternational
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 #EXTINF:-1 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN International.png" group-title="📡国际频道",CNN International
 https://smart.dxjc.pp.ua/smart.php?id=Cnn&token=tmxk
+#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN International.png" group-title="📡国际频道",CNN International
+https://hilay.tv/l/cnninternational
 #EXTINF:-1 tvg-name="CNN Headlines" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN Headlines.png" group-title="📡国际频道",CNN Headlines
 https://jmp2.uk/ATBD190000101
 #EXTINF:-1 tvg-name="CNN Headlines" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN Headlines.png" group-title="📡国际频道",CNN Headlines
@@ -1393,26 +1399,40 @@ https://jmp2.uk/sam-GBBB1500004LG.m3u8
 https://jmp2.uk/sam-ITBC4000028E.m3u8
 #EXTINF:-1 tvg-name="National Geographic Wild" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/National Geographic Wild.png" group-title="📡国际频道",National Geographic Wild
 https://maldivesn.net/hilaytv/natgeowild
+#EXTINF:-1 tvg-name="National Geographic Wild" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/National Geographic Wild.png" group-title="📡国际频道",National Geographic Wild
+https://hilay.tv/l/natgeowild
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery Channel.png" group-title="📡国际频道",Discovery Channel
 https://world-proxifier.xyz/daddylive/p/C46CGJR5GIYCEPDSBAWTQX24KZMBAGQ2CBQGIYY/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery Channel.png" group-title="📡国际频道",Discovery Channel
 https://ott.udptv.xyz/stream/astro/discoverychannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery Channel.png" group-title="📡国际频道",Discovery Channel
 https://maldivesn.net/hilaytv/discovery
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery Channel.png" group-title="📡国际频道",Discovery Channel
+https://hilay.tv/l/discovery
 #EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery Science.png" group-title="📡国际频道",Discovery Science
 https://maldivesn.net/hilaytv/discoveryscience
+#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery Science.png" group-title="📡国际频道",Discovery Science
+https://hilay.tv/l/discoveryscience
 #EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery Asia.png" group-title="📡国际频道",Discovery Asia
 https://ott.udptv.xyz/stream/astro/discoveryasia/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery Asia.png" group-title="📡国际频道",Discovery Asia
 https://smart.dxjc.pp.ua/smart.php?id=discoverytwn_twn&token=tmxk
 #EXTINF:-1 tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Investigation Discovery.png" group-title="📡国际频道",Investigation Discovery
 https://maldivesn.net/hilaytv/investigationdiscovery
+#EXTINF:-1 tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Investigation Discovery.png" group-title="📡国际频道",Investigation Discovery
+https://hilay.tv/l/investigationdiscovery
 #EXTINF:-1 tvg-name="Discovery Life" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery Life.png" group-title="📡国际频道",Discovery Life
 https://maldivesn.net/hilaytv/discoverylife
+#EXTINF:-1 tvg-name="Discovery Life" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery Life.png" group-title="📡国际频道",Discovery Life
+https://hilay.tv/l/discoverylife
 #EXTINF:-1 tvg-name="Discovery TLC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery TLC.png" group-title="📡国际频道",Discovery TLC
 https://maldivesn.net/hilaytv/tlc
+#EXTINF:-1 tvg-name="Discovery TLC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery TLC.png" group-title="📡国际频道",Discovery TLC
+https://hilay.tv/l/hilaytv/tlc
 #EXTINF:-1 tvg-name="Discovery Animal Planet" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery Animal Planet.png" group-title="📡国际频道",Discovery Animal Planet
 https://maldivesn.net/hilaytv/animalplanet
+#EXTINF:-1 tvg-name="Discovery Animal Planet" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery Animal Planet.png" group-title="📡国际频道",Discovery Animal Planet
+https://hilay.tv/l/animalplanet
 #EXTINF:-1 tvg-name="CNN Originals" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN Originals.png" group-title="📡国际频道",CNN Originals
 https://jmp2.uk/plu-66e0b4536ad04d0008fff4b2.m3u8
 #EXTINF:-1 tvg-name="CNN Originals" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN Originals.png" group-title="📡国际频道",CNN Originals
@@ -1431,6 +1451,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?ads.xumo_c
 https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?ads.xumo_channelId=99951387&ads._fw_ifa_type=&ads._fw_did=5e9eaa2b-bbd7-4eae-81c6-4b17ccffefe9&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WBDCNNOriginals&ads.csid=xumo_web_WBDCNNOriginals_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4194&ads.xumo_contentName=WBDCNNOriginals&ads.xumo_providerId=4194&ads.xumo_providerName=WBDCNNOriginals&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951387&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="CNN Originals" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN Originals.png" group-title="📡国际频道",CNN Originals
 https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?ads.xumo_channelId=99951387&ads._fw_ifa_type=&ads._fw_did=3cf1d462-d20a-48e6-aa0e-61ffba6dd49f&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WBDCNNOriginals&ads.csid=xumo_web_WBDCNNOriginals_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4194&ads.xumo_contentName=WBDCNNOriginals&ads.xumo_providerId=4194&ads.xumo_providerName=WBDCNNOriginals&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951387&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-name="CNN Originals" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN Originals.png" group-title="📡国际频道",CNN Originals
+https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?ads.xumo_channelId=99951387&ads._fw_ifa_type=&ads._fw_did=b2e16e3e-615e-4c2d-81dc-5ecaf1d49e54&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WBDCNNOriginals&ads.csid=xumo_web_WBDCNNOriginals_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4194&ads.xumo_contentName=WBDCNNOriginals&ads.xumo_providerId=4194&ads.xumo_providerName=WBDCNNOriginals&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951387&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Red Bull TV.png" group-title="📡国际频道",Red Bull TV
 https://jmp2.uk/ATBD1500003ES
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Red Bull TV.png" group-title="📡国际频道",Red Bull TV
@@ -1469,6 +1491,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_c
 https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383&ads._fw_ifa_type=&ads._fw_did=aab9f275-5fa0-4506-9bdd-74a97acd5e78&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951383&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="The NBA Channel" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/The NBA Channel.png" group-title="📡国际频道",The NBA Channel
 https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383&ads._fw_ifa_type=&ads._fw_did=624b8a8d-bfc0-4745-b28f-b4651c435c08&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951383&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-name="The NBA Channel" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/The NBA Channel.png" group-title="📡国际频道",The NBA Channel
+https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383&ads._fw_ifa_type=&ads._fw_did=aa2d4138-220d-4cd4-9332-234eb3200e35&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951383&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="Big Ten Network" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Big Ten Network.png" group-title="📡国际频道",Big Ten Network
 https://a1xs.vip/40000047
 #EXTINF:-1 tvg-name="Fight Network" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Fight Network.png" group-title="📡国际频道",Fight Network
@@ -1659,6 +1683,8 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951467/hls/master.m3u8?ads.xumo_cha
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951467/hls/master.m3u8?ads.xumo_channelId=99951467&ads.asnw=535279&ads.afid=440668005&ads.sfid=23858505&ads.csid=xumo_web_versantbadgirlsclub_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=392a2cc9-65ab-4ad0-b9b1-241776f08519&ads._fw_vcid2=512116:392a2cc9-65ab-4ad0-b9b1-241776f08519&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=xumoplay&ads.xumo_contentId=4301&ads.xumo_contentName=VersantBadGirlsClub&ads.xumo_providerId=4301&ads.xumo_providerName=VersantBadGirlsClub&ads.channelId=99951467&ads._fw_ifa_type=
 #EXTINF:-1 tvg-name="Bad Girls Club" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Bad Girls Club.png" group-title="📡国际频道",Bad Girls Club
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951467/hls/master.m3u8?ads.xumo_channelId=99951467&ads.asnw=535279&ads.afid=440668005&ads.sfid=23858505&ads.csid=xumo_web_versantbadgirlsclub_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=7893896a-27c8-4776-8112-7df745646e61&ads._fw_vcid2=512116:7893896a-27c8-4776-8112-7df745646e61&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=xumoplay&ads.xumo_contentId=4301&ads.xumo_contentName=VersantBadGirlsClub&ads.xumo_providerId=4301&ads.xumo_providerName=VersantBadGirlsClub&ads.channelId=99951467&ads._fw_ifa_type=
+#EXTINF:-1 tvg-name="Bad Girls Club" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Bad Girls Club.png" group-title="📡国际频道",Bad Girls Club
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951467/hls/master.m3u8?ads.xumo_channelId=99951467&ads.asnw=535279&ads.afid=440668005&ads.sfid=23858505&ads.csid=xumo_web_versantbadgirlsclub_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=d8895f39-4383-4f37-b72c-3b91e99f946d&ads._fw_vcid2=512116:d8895f39-4383-4f37-b72c-3b91e99f946d&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=xumoplay&ads.xumo_contentId=4301&ads.xumo_contentName=VersantBadGirlsClub&ads.xumo_providerId=4301&ads.xumo_providerName=VersantBadGirlsClub&ads.channelId=99951467&ads._fw_ifa_type=
 #EXTINF:-1 tvg-name="Real Housewives Vault" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Real Housewives Vault.png" group-title="📡国际频道",Real Housewives Vault
 https://jmp2.uk/US18000059V
 #EXTINF:-1 tvg-name="Real Housewives Vault" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Real Housewives Vault.png" group-title="📡国际频道",Real Housewives Vault
@@ -1707,12 +1733,16 @@ https://jmp2.uk/stvp-GBBC2300001X5
 https://maldivesn.net/hilaytv/mtvplus
 #EXTINF:-1 tvg-name="MTV HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV HD.png" group-title="📡国际频道",MTV HD
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8
+#EXTINF:-1 tvg-name="MTV HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV HD.png" group-title="📡国际频道",MTV HD
+https://hilay.tv/l/mtvplus
 #EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV Live.png" group-title="📡国际频道",MTV Live
 https://ott.udptv.xyz/stream/astro/mtvlive/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV Live.png" group-title="📡国际频道",MTV Live
 https://smart.dxjc.pp.ua/smart.php?id=mtvhd_twn&token=tmxk
 #EXTINF:-1 tvg-name="MTV Music LIVE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV Music LIVE.png" group-title="📡国际频道",MTV Music LIVE
 https://maldivesn.net/hilaytv/mtvlive
+#EXTINF:-1 tvg-name="MTV Music LIVE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV Music LIVE.png" group-title="📡国际频道",MTV Music LIVE
+https://hilay.tv/l/mtvlive
 #EXTINF:-1 tvg-name="Brit Asia TV (1080p)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Brit Asia TV (1080p).png" group-title="📡国际频道",Brit Asia TV (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
 #EXTINF:-1 tvg-name="Dance Moms" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Dance Moms.png" group-title="📡国际频道",Dance Moms
@@ -1737,6 +1767,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00276-aetelevisionnet-dancemoms-lgu
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-672917e07f55143b23b66c4b.m3u8
 #EXTINF:-1 tvg-name="Hindi Hits HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Hindi Hits HD.png" group-title="📡国际频道",Hindi Hits HD
 https://maldivesn.net/hilaytv/hindihits
+#EXTINF:-1 tvg-name="Hindi Hits HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Hindi Hits HD.png" group-title="📡国际频道",Hindi Hits HD
+https://hilay.tv/l/hindihits
 #EXTINF:-1 tvg-name="Vevo Latino" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Vevo Latino.png" group-title="📡国际频道",Vevo Latino
 https://jmp2.uk/ESBC2100002LV
 #EXTINF:-1 tvg-name="Vevo Latino" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Vevo Latino.png" group-title="📡国际频道",Vevo Latino
@@ -1813,10 +1845,14 @@ https://jmp2.uk/rok-94759dbd58a65682bcc573932f725f46.m3u8
 https://jmp2.uk/stvp-USBB4400015F5
 #EXTINF:-1 tvg-name="E 24" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/E 24.png" group-title="📡国际频道",E 24
 https://maldivesn.net/hilaytv/e24
+#EXTINF:-1 tvg-name="E 24" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/E 24.png" group-title="📡国际频道",E 24
+https://hilay.tv/l/e24
 #EXTINF:-1 tvg-name="M+ HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/M+ HD.png" group-title="📡国际频道",M+ HD
 https://maldivesn.net/hilaytv/mplus
 #EXTINF:-1 tvg-name="M+ HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/M+ HD.png" group-title="📡国际频道",M+ HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8
+#EXTINF:-1 tvg-name="M+ HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/M+ HD.png" group-title="📡国际频道",M+ HD
+https://hilay.tv/l/mplus
 #EXTINF:-1 tvg-name="E! East" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/E! East.png" group-title="📡国际频道",E! East
 https://ott.udptv.xyz/stream/nbc/eeast/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1 tvg-name="TSN1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TSN1.png" group-title="📡国际频道",TSN1
@@ -1853,10 +1889,14 @@ https://a1xs.vip/6000005
 https://ott.udptv.xyz/stream/udptvus/espnu/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1 tvg-name="ESPN U" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ESPN U.png" group-title="📡国际频道",ESPN U
 https://maldivesn.net/hilaytv/espnu
+#EXTINF:-1 tvg-name="ESPN U" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ESPN U.png" group-title="📡国际频道",ESPN U
+https://hilay.tv/l/espnu
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="📡国际频道",AXN
 https://ott.udptv.xyz/stream/astro/axn/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="📡国际频道",AXN
 https://maldivesn.net/hilaytv/axn
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="📡国际频道",AXN
+https://hilay.tv/l/axn
 #EXTINF:-1 tvg-name="KPOP+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/KPOP+.png" group-title="📡国际频道",KPOP+
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-682e09a8dfc9c452b8f9bd66.m3u8
 #EXTINF:-1 tvg-name="KPOP+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/KPOP+.png" group-title="📡国际频道",KPOP+
@@ -1873,16 +1913,24 @@ https://maldivesn.net/hilaytv/kpopplus
 https://jmp2.uk/plex-68fa84637ac952737656ae5f-682e09a8dfc9c452b8f9bd66.m3u8
 #EXTINF:-1 tvg-name="KPOP+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/KPOP+.png" group-title="📡国际频道",KPOP+
 https://jmp2.uk/plex-68fa84f47ac9527376570bbf-682e09a8dfc9c452b8f9bd66.m3u8
+#EXTINF:-1 tvg-name="KPOP+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/KPOP+.png" group-title="📡国际频道",KPOP+
+https://hilay.tv/l/kpopplus
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO.png" group-title="📡国际频道",HBO
 https://maldivesn.net/hilaytv/hbo
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO.png" group-title="📡国际频道",HBO
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO.png" group-title="📡国际频道",HBO
+https://hilay.tv/l/hbo
 #EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO 2.png" group-title="📡国际频道",HBO 2
 https://maldivesn.net/hilaytv/hbo2
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO 2.png" group-title="📡国际频道",HBO 2
+https://hilay.tv/l/hbo2
 #EXTINF:-1 tvg-name="HBO Zone" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO Zone.png" group-title="📡国际频道",HBO Zone
 https://ott.udptv.net/stream/iptv/hbozone/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1 tvg-name="HBO Zone" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO Zone.png" group-title="📡国际频道",HBO Zone
 https://maldivesn.net/hilaytv/hbozone
+#EXTINF:-1 tvg-name="HBO Zone" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO Zone.png" group-title="📡国际频道",HBO Zone
+https://hilay.tv/l/hbozone
 #EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO HD.png" group-title="📡国际频道",HBO HD
 https://ott.udptv.net/stream/iptv/hbohd/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO HD.png" group-title="📡国际频道",HBO HD
@@ -1905,10 +1953,14 @@ https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_channelId=99951349&ads.channelId=99951349&ads.csid=xumo_web_AMCScaresbyShudder_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_ifa_type=&ads._fw_did=e7dddfb9-589f-4d0f-b31b-dde1fc487ed6&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4104&ads.xumo_contentName=AMCScaresbyShudder&ads.xumo_providerId=4104&ads.xumo_providerName=AMCScaresbyShudder&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="Scares by Shudder" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Scares by Shudder.png" group-title="📡国际频道",Scares by Shudder
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_channelId=99951349&ads.channelId=99951349&ads.csid=xumo_web_AMCScaresbyShudder_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_ifa_type=&ads._fw_did=1afab877-5705-448c-be06-302efd1f7877&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4104&ads.xumo_contentName=AMCScaresbyShudder&ads.xumo_providerId=4104&ads.xumo_providerName=AMCScaresbyShudder&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-name="Scares by Shudder" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Scares by Shudder.png" group-title="📡国际频道",Scares by Shudder
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_channelId=99951349&ads.channelId=99951349&ads.csid=xumo_web_AMCScaresbyShudder_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_ifa_type=&ads._fw_did=7f234825-f85d-40ee-9d4c-6779b4205663&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4104&ads.xumo_contentName=AMCScaresbyShudder&ads.xumo_providerId=4104&ads.xumo_providerName=AMCScaresbyShudder&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="Sony PIX HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Sony PIX HD.png" group-title="📡国际频道",Sony PIX HD
 https://dish.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTINF:-1 tvg-name="Sony Movie Channel" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Sony Movie Channel.png" group-title="📡国际频道",Sony Movie Channel
 https://maldivesn.net/hilaytv/sonymoviech
+#EXTINF:-1 tvg-name="Sony Movie Channel" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Sony Movie Channel.png" group-title="📡国际频道",Sony Movie Channel
+https://hilay.tv/l/sonymoviech
 #EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Cinemax.png" group-title="📡国际频道",Cinemax
 http://ott.udptv.net/stream/iptv/cinemax/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Cinemax.png" group-title="📡国际频道",Cinemax
@@ -1971,6 +2023,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_c
 https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_channelId=99951251&ads._fw_ifa_type=&ads._fw_did=9ce2593d-6c4c-4ac3-892f-8287c31a167a&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LionsgateMovieSphere&ads.csid=xumo_web_LionsgateMovieSphere_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3955&ads.xumo_contentName=LionsgateMovieSphere&ads.xumo_providerId=3955&ads.xumo_providerName=LionsgateMovieSphere&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951251&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="MovieSphere by Lionsgate" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MovieSphere by Lionsgate.png" group-title="📡国际频道",MovieSphere by Lionsgate
 https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_channelId=99951251&ads._fw_ifa_type=&ads._fw_did=20674377-21de-4c5f-aace-c9ac85822893&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LionsgateMovieSphere&ads.csid=xumo_web_LionsgateMovieSphere_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3955&ads.xumo_contentName=LionsgateMovieSphere&ads.xumo_providerId=3955&ads.xumo_providerName=LionsgateMovieSphere&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951251&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-name="MovieSphere by Lionsgate" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MovieSphere by Lionsgate.png" group-title="📡国际频道",MovieSphere by Lionsgate
+https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_channelId=99951251&ads._fw_ifa_type=&ads._fw_did=4f4cf696-45d3-4d39-850c-d53ca935af44&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LionsgateMovieSphere&ads.csid=xumo_web_LionsgateMovieSphere_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3955&ads.xumo_contentName=LionsgateMovieSphere&ads.xumo_providerId=3955&ads.xumo_providerName=LionsgateMovieSphere&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951251&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="Hi-Yah!" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Hi-Yah!.png" group-title="📡国际频道",Hi-Yah!
 https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/xumo_smart_tv.m3u8?ads.xumo_channelId=99991302&ads._fw_ifa_type=&ads._fw_did=e83a464e-aad0-49ad-98e3-25d62a324553&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=hiyah&ads.csid=xumo_web_hiyah_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=236&ads.xumo_contentName=HiYah&ads.xumo_providerId=236&ads.xumo_providerName=HiYah&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991302&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="Hi-Yah!" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Hi-Yah!.png" group-title="📡国际频道",Hi-Yah!
@@ -1985,6 +2039,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/xumo_smart_tv.m3u8?ads.x
 https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/xumo_smart_tv.m3u8?ads.xumo_channelId=99991302&ads._fw_ifa_type=&ads._fw_did=22ebc032-8e92-4dfb-8622-505963477335&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=hiyah&ads.csid=xumo_web_hiyah_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=236&ads.xumo_contentName=HiYah&ads.xumo_providerId=236&ads.xumo_providerName=HiYah&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991302&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="Hi-Yah!" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Hi-Yah!.png" group-title="📡国际频道",Hi-Yah!
 https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/xumo_smart_tv.m3u8?ads.xumo_channelId=99991302&ads._fw_ifa_type=&ads._fw_did=b5975d4e-e433-4e75-b20f-ca1971cb0c4d&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=hiyah&ads.csid=xumo_web_hiyah_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=236&ads.xumo_contentName=HiYah&ads.xumo_providerId=236&ads.xumo_providerName=HiYah&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991302&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-name="Hi-Yah!" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Hi-Yah!.png" group-title="📡国际频道",Hi-Yah!
+https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/xumo_smart_tv.m3u8?ads.xumo_channelId=99991302&ads._fw_ifa_type=&ads._fw_did=89ecb800-de84-4686-bdb2-f8111bd20b08&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=hiyah&ads.csid=xumo_web_hiyah_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=236&ads.xumo_contentName=HiYah&ads.xumo_providerId=236&ads.xumo_providerName=HiYah&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991302&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="Shades of Black" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Shades of Black.png" group-title="📡国际频道",Shades of Black
 https://jmp2.uk/USBC1000004G8
 #EXTINF:-1 tvg-name="Shades of Black" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Shades of Black.png" group-title="📡国际频道",Shades of Black
@@ -2009,6 +2065,8 @@ https://jmp2.uk/plex-68fa84637ac952737656ae5f-67a1421f114554261db9e459.m3u8
 https://world-proxifier.xyz/daddylive/p/C46CGKZXHV2QQALSMFXXSAQDA4/index.m3u8
 #EXTINF:-1 tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Disney XD.png" group-title="📡国际频道",Disney XD
 https://maldivesn.net/hilaytv/disneyxd
+#EXTINF:-1 tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Disney XD.png" group-title="📡国际频道",Disney XD
+https://hilay.tv/l/disneyxd
 #EXTINF:-1 tvg-name="Babes" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Babes.png" group-title="📡俄语频道",Babes
 http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/37449/hls/pl.m3u8
 #EXTINF:-1 tvg-name="Babes" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Babes.png" group-title="📡俄语频道",Babes
