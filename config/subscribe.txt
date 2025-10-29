@@ -27,3 +27,4 @@ https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/alist/MMHY.txt
 https://tmxk.pp.ua/smart-cn.m3u
 https://raw.githubusercontent.com/vickdong1/IPTVxxx/refs/heads/main/XXX.m3u
 https://raw.githubusercontent.com/hujingguang/ChinaIPTV/refs/heads/main/xxx.m3u8
+https://raw.githubusercontent.com/live-iptv/m3u_validator/refs/heads/main/xxx_m3u.m3u
