@@ -25,3 +25,4 @@ https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_mov
 https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_pluto.m3u
 https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/alist/MMHY.txt
 https://tmxk.pp.ua/smart-cn.m3u
+https://raw.githubusercontent.com/vickdong1/IPTVxxx/refs/heads/main/XXX.m3u
