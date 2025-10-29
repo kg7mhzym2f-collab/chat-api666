@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-29 07:46:24,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-10-29 11:09:59,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -602,6 +602,7 @@ Thrill,http://ott.udptv.net/stream/iptv/thrill/master.m3u8?u=cocked&p=dd0abb5272
 Thrill,https://smart.dxjc.pp.ua/smart.php?id=Thrill&token=tmxk
 Hits Movies,https://ott.udptv.xyz/stream/astro/hitsmovies/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 Axn HD,https://smart.dxjc.pp.ua/smart.php?id=Axn&token=tmxk
+Fashion TV Midnight Secret,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 Kaloopy TV,https://maldivesn.net/hilaytv/kaloopy
 英雄联盟,https://live.ottiptv.cc/douyu/288016
 
@@ -1015,21 +1016,7 @@ Disney XD,https://maldivesn.net/hilaytv/disneyxd
 📡俄语频道,#genre#
 Babes,http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/37449/hls/pl.m3u8
 Babes,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/37449/hlsx/pl.m3u8
+Hustler HD,http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/93665/hls/pl.m3u8
+Hustler HD,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/93665/hlsx/pl.m3u8
 Eroxxx,http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/54982/hls/pl.m3u8
 Eroxxx,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/54982/hlsx/pl.m3u8
-Dorcel TV,http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/92273/hls/pl.m3u8
-Dorcel TV,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/92273/hlsx/pl.m3u8
-Vivid Red HD,http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/91663/hls/pl.m3u8
-Vivid Red HD,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/91663/hlsx/pl.m3u8
-XXL,http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/26472/hls/pl.m3u8
-XXL,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/26472/hlsx/pl.m3u8
-Barely Legal TV,http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/23879/hls/pl.m3u8
-Barely Legal TV,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/23879/hlsx/pl.m3u8
-Red Lips,http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/47722/hls/pl.m3u8
-Red Lips,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/47722/hlsx/pl.m3u8
-CineMan ExExEx,http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/61194/hls/pl.m3u8
-CineMan ExExEx,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/61194/hlsx/pl.m3u8
-BCU Charm HD,http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/62294/hls/pl.m3u8
-BCU Charm HD,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/62294/hlsx/pl.m3u8
-Brazzers TV Europe,http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/62847/hls/pl.m3u8
-Brazzers TV Europe,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/62847/hlsx/pl.m3u8

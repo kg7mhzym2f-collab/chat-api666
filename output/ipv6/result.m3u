@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/kg7mhzym2f-collab/chat-api666/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-29 07:46:24
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-29 11:09:59
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1193,6 +1193,8 @@ https://smart.dxjc.pp.ua/smart.php?id=Thrill&token=tmxk
 https://ott.udptv.xyz/stream/astro/hitsmovies/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1 tvg-name="Axn HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Axn HD.png" group-title="📡港澳台频道",Axn HD
 https://smart.dxjc.pp.ua/smart.php?id=Axn&token=tmxk
+#EXTINF:-1 tvg-name="Fashion TV Midnight Secret" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Fashion TV Midnight Secret.png" group-title="📡港澳台频道",Fashion TV Midnight Secret
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Kaloopy TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Kaloopy TV.png" group-title="📡港澳台频道",Kaloopy TV
 https://maldivesn.net/hilaytv/kaloopy
 #EXTINF:-1 tvg-name="英雄联盟" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/英雄联盟.png" group-title="📡港澳台频道",英雄联盟
@@ -2011,39 +2013,11 @@ https://maldivesn.net/hilaytv/disneyxd
 http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/37449/hls/pl.m3u8
 #EXTINF:-1 tvg-name="Babes" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Babes.png" group-title="📡俄语频道",Babes
 http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/37449/hlsx/pl.m3u8
+#EXTINF:-1 tvg-name="Hustler HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Hustler HD.png" group-title="📡俄语频道",Hustler HD
+http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/93665/hls/pl.m3u8
+#EXTINF:-1 tvg-name="Hustler HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Hustler HD.png" group-title="📡俄语频道",Hustler HD
+http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/93665/hlsx/pl.m3u8
 #EXTINF:-1 tvg-name="Eroxxx" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Eroxxx.png" group-title="📡俄语频道",Eroxxx
 http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/54982/hls/pl.m3u8
 #EXTINF:-1 tvg-name="Eroxxx" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Eroxxx.png" group-title="📡俄语频道",Eroxxx
 http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/54982/hlsx/pl.m3u8
-#EXTINF:-1 tvg-name="Dorcel TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Dorcel TV.png" group-title="📡俄语频道",Dorcel TV
-http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/92273/hls/pl.m3u8
-#EXTINF:-1 tvg-name="Dorcel TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Dorcel TV.png" group-title="📡俄语频道",Dorcel TV
-http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/92273/hlsx/pl.m3u8
-#EXTINF:-1 tvg-name="Vivid Red HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Vivid Red HD.png" group-title="📡俄语频道",Vivid Red HD
-http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/91663/hls/pl.m3u8
-#EXTINF:-1 tvg-name="Vivid Red HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Vivid Red HD.png" group-title="📡俄语频道",Vivid Red HD
-http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/91663/hlsx/pl.m3u8
-#EXTINF:-1 tvg-name="XXL" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/XXL.png" group-title="📡俄语频道",XXL
-http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/26472/hls/pl.m3u8
-#EXTINF:-1 tvg-name="XXL" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/XXL.png" group-title="📡俄语频道",XXL
-http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/26472/hlsx/pl.m3u8
-#EXTINF:-1 tvg-name="Barely Legal TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Barely Legal TV.png" group-title="📡俄语频道",Barely Legal TV
-http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/23879/hls/pl.m3u8
-#EXTINF:-1 tvg-name="Barely Legal TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Barely Legal TV.png" group-title="📡俄语频道",Barely Legal TV
-http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/23879/hlsx/pl.m3u8
-#EXTINF:-1 tvg-name="Red Lips" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Red Lips.png" group-title="📡俄语频道",Red Lips
-http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/47722/hls/pl.m3u8
-#EXTINF:-1 tvg-name="Red Lips" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Red Lips.png" group-title="📡俄语频道",Red Lips
-http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/47722/hlsx/pl.m3u8
-#EXTINF:-1 tvg-name="CineMan ExExEx" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CineMan ExExEx.png" group-title="📡俄语频道",CineMan ExExEx
-http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/61194/hls/pl.m3u8
-#EXTINF:-1 tvg-name="CineMan ExExEx" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CineMan ExExEx.png" group-title="📡俄语频道",CineMan ExExEx
-http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/61194/hlsx/pl.m3u8
-#EXTINF:-1 tvg-name="BCU Charm HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BCU Charm HD.png" group-title="📡俄语频道",BCU Charm HD
-http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/62294/hls/pl.m3u8
-#EXTINF:-1 tvg-name="BCU Charm HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BCU Charm HD.png" group-title="📡俄语频道",BCU Charm HD
-http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/62294/hlsx/pl.m3u8
-#EXTINF:-1 tvg-name="Brazzers TV Europe" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers TV Europe.png" group-title="📡俄语频道",Brazzers TV Europe
-http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/62847/hls/pl.m3u8
-#EXTINF:-1 tvg-name="Brazzers TV Europe" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers TV Europe.png" group-title="📡俄语频道",Brazzers TV Europe
-http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/62847/hlsx/pl.m3u8
