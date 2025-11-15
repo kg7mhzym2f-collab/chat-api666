@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-15 19:14:17,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-11-16 07:43:13,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -546,10 +546,12 @@ TVBS精采台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifen
 TVBS精采台,https://4gtv.dxjc.pp.ua/4gtv-4gtv067/index.m3u8
 TVBS精采台,https://mao.ffmking888.dpdns.org/?id=VFZCUaeyvumHhaWPsAxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 TVBS精采台,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv067/index.m3u8
+TVBS精采台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv067
 TVBS新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv072
 TVBS新聞台,https://usiptv.esnad.dpdns.org/?id=tvbsnews
 TVBS新聞台,https://mao.ffmking888.dpdns.org/?id=VFZCUaaWsOiBngxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 TVBS新聞台,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv072/index.m3u8
+TVBS新聞台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv072
 TVB翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 TVB翡翠台,https://smart.dxjc.pp.ua/smart.php?id=jade_twn&token=tmxk
 TVB翡翠台,https://smart.dxjc.pp.ua/smart.php?id=Jade_xue&token=tmxk
@@ -557,6 +559,7 @@ TVB无线星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB翡翠台 1080P,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 民視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv13
 民視新聞台,https://mao.ffmking888.dpdns.org/?id=5rCR6KaW5paw6IGe5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+民視新聞台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-ftv13
 中天新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv009
 中天新聞台,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv009/index.m3u8
 中天新聞台,https://mao.ffmking888.dpdns.org/?id=5Lit5aSp5paw6IGe5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
@@ -585,11 +588,13 @@ HBO_HD,https://smart.dxjc.pp.ua/smart.php?id=hbohd_twn&token=tmxk
 HBO_HITS,https://smart.dxjc.pp.ua/smart.php?id=hbohit_twn&token=tmxk
 台視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv066
 台視,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv066
+台視,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv066
 台視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv051
 台視新聞台,https://usiptv.esnad.dpdns.org/?id=tsnews
 台視新聞台,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv051/index.m3u8
 台視新聞台,https://4gtv.dxjc.pp.ua/4gtv-4gtv051/index.m3u8
 台視新聞台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv051
+台視新聞台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv051
 台视新闻,https://smart.dxjc.pp.ua/smart.php?id=ttvnews_twn&token=tmxk
 台视综合,https://smart.dxjc.pp.ua/smart.php?id=ttvzhonghe&token=tmxk
 華視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv052
@@ -598,13 +603,17 @@ HBO_HITS,https://smart.dxjc.pp.ua/smart.php?id=hbohit_twn&token=tmxk
 華視新聞台,https://4gtv.dxjc.pp.ua/of-4gtv-4gtv052/index.m3u8
 華視新聞台,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv052/index.m3u8
 華視新聞台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv052
+華視新聞台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv052
 寰宇新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn14
 寰宇新聞台,https://mao.ffmking888.dpdns.org/?id=5aaw5a6H5paw6IGe5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 寰宇新聞台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn14
+寰宇新聞台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn14
 靖天資訊台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
 靖天資訊台,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp6LOH6KiK5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+靖天資訊台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065
 靖天育樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv062
 靖天育樂台,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp6IKy5qiC5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+靖天育樂台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv062
 龍華電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn03
 龍華電影台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn03
 三立台湾台,https://smart.dxjc.pp.ua/smart.php?id=sanlitaiwan&token=tmxk
@@ -613,12 +622,15 @@ HBO_HITS,https://smart.dxjc.pp.ua/smart.php?id=hbohit_twn&token=tmxk
 华丽翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 amc電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv017
 amc電影台,https://mao.ffmking888.dpdns.org/?id=YW1j6Zu75b2x5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+amc電影台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv017
 時尚運動X,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv014
 時尚運動X,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv014/index.m3u8
 時尚運動X,https://mao.ffmking888.dpdns.org/?id=5pmC5bCa6YGL5YuVWAxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 時尚運動X,https://4gtv.dxjc.pp.ua/4gtv-4gtv014/index.m3u8
+時尚運動X,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv014
 民視旅遊台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv07
 民視旅遊台,https://mao.ffmking888.dpdns.org/?id=5rCR6KaW5peF6YGK5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+民視旅遊台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-ftv07
 TVBS綜藝台,https://mao.ffmking888.dpdns.org/?id=VFZCUae2nOiXneWPsAxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 TVBS綜藝台,https://4gtv.dxjc.pp.ua/4gtv-live087/index.m3u8
 中視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv040
@@ -627,6 +639,7 @@ TVBS綜藝台,https://4gtv.dxjc.pp.ua/4gtv-live087/index.m3u8
 中視,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv040/index.m3u8
 中視,https://4gtv.dxjc.pp.ua/of-4gtv-4gtv040/index.m3u8
 中視,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv040
+中視,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv040
 中视新闻,https://smart.dxjc.pp.ua/smart.php?id=zhongshinews_twn&token=tmxk
 中视经典,https://smart.dxjc.pp.ua/smart.php?id=zhongshi_twn&token=tmxk
 華視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv041
@@ -635,12 +648,16 @@ TVBS綜藝台,https://4gtv.dxjc.pp.ua/4gtv-live087/index.m3u8
 華視,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv041/index.m3u8
 華視,https://4gtv.dxjc.pp.ua/of-4gtv-4gtv041/index.m3u8
 華視,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv041
+華視,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv041
 民視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv155
 民視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv002
 民視,https://mao.ffmking888.dpdns.org/?id=5rCR6KaW&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+民視,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv155
+民視,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv002
 民视新闻台,https://smart.dxjc.pp.ua/smart.php?id=ftvnew_taiwan&token=tmxk
 TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv073
 TVBS,https://mao.ffmking888.dpdns.org/?id=VFZCUwxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+TVBS,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv073
 HBO Signature,http://ott.udptv.net/stream/iptv/hbosignature/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 HBO Signature,https://smart.dxjc.pp.ua/smart.php?id=Hbosignature&token=tmxk
 HBO Family,https://ott.udptv.net/stream/iptv/hbofamily/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
