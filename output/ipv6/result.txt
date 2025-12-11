@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-11 18:51:23,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-12 07:08:35,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -534,9 +534,12 @@ CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415
 📡港澳台频道,#genre#
 凤凰卫视中文台,https://smart.dxjc.pp.ua/smart.php?id=phoenixtv_hd&token=tmxk
 凤凰卫视中文台,http://cdn6.163189.xyz/163189/fhzw
+凤凰卫视中文台,https://tvb.go-iptv.ggff.net/stream/tvb/null-2/master.m3u8?u=admins&p=fa956b808c8f8e3b59be14d7d584761e041a8359d58ba7e1829f12605d76203a
 凤凰中文,https://smart.dxjc.pp.ua/smart.php?id=phoenixtv_hd&token=tmxk
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰中文,https://tvb.go-iptv.ggff.net/stream/tvb/null-2/master.m3u8?u=admins&p=fa956b808c8f8e3b59be14d7d584761e041a8359d58ba7e1829f12605d76203a
 凤凰卫视资讯台,https://smart.dxjc.pp.ua/smart.php?id=phoenixinfo_hd&token=tmxk
+凤凰卫视资讯台,https://tvb.go-iptv.ggff.net/stream/tvb/null/master.m3u8?u=admins&p=fa956b808c8f8e3b59be14d7d584761e041a8359d58ba7e1829f12605d76203a
 凤凰资讯,https://smart.dxjc.pp.ua/smart.php?id=phoenixinfo_hd&token=tmxk
 凤凰资讯,https://tmxk.pp.ua/smt.php?id=phoenixinfo_hd
 凤凰香港,https://smart.dxjc.pp.ua/smart.php?id=hkphoenix_twn&token=tmxk
@@ -548,9 +551,11 @@ CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415
 翡翠台,https://smart.dxjc.pp.ua/smart.php?id=Jade_xue&token=tmxk
 翡翠台,https://tmxk.pp.ua/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台,https://tvb.go-iptv.ggff.net/stream/tvb/feicui4k/master.m3u8?u=admins&p=fa956b808c8f8e3b59be14d7d584761e041a8359d58ba7e1829f12605d76203a
 明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 明珠台,https://smart.dxjc.pp.ua/smart.php?id=pearl_twn&token=tmxk
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+明珠台,https://tvb.go-iptv.ggff.net/stream/tvb/null-3/master.m3u8?u=admins&p=fa956b808c8f8e3b59be14d7d584761e041a8359d58ba7e1829f12605d76203a
 TVBPLUS,https://smart.dxjc.pp.ua/smart.php?id=j2_twn&token=tmxk
 美亚电影,https://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
 美亚电影,https://tmxk.pp.ua/smt.php?id=meiyamovie_twn
@@ -569,6 +574,7 @@ TVB翡翠台,https://smart.dxjc.pp.ua/smart.php?id=jade_twn&token=tmxk
 TVB翡翠台,https://smart.dxjc.pp.ua/smart.php?id=Jade_xue&token=tmxk
 TVB翡翠台,https://tmxk.pp.ua/smt.php?id=jade_twn
 TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+TVB翡翠台,https://tvb.go-iptv.ggff.net/stream/tvb/feicui4k/master.m3u8?u=admins&p=fa956b808c8f8e3b59be14d7d584761e041a8359d58ba7e1829f12605d76203a
 TVB无线星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB翡翠台 1080P,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 民視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv13
