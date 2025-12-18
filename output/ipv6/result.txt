@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-18 06:59:25,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-18 18:44:25,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -740,6 +740,7 @@ ABC News Live,https://amg00497-lgus-amg00497c3-lg-us-2779.playouts.now.amagi.tv/
 ABC News Live,https://jmp2.uk/stvp-USBC39000171G
 ABC News Live,https://a1xs.vip/300016
 ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
+ABC News Live,https://dbrb49pjoymg4.cloudfront.net/10001/99951517/hls/master.m3u8?ads.xumo_channelId=99951517&ads.xumo_streamId=99951517&ads.channelId=99951517&ads.channelName=ABC_us&ads.caid=ABC&ads.csid=xumo_web_ABC_ssai&ads.genre=News,N&ads._fw_content_genre=News,N&ads._fw_coppa=0&ads.xumo_contentId=58&ads.xumo_contentName=ABC&ads.xumo_providerId=58&ads.xumo_providerName=ABC&ads._fw_ifa_type=&ads._fw_did=03a90432-8e96-434c-a0e6-075a2bfee607&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
 LiveNOW from FOX,https://jmp2.uk/USBA300024TN
 LiveNOW from FOX,https://jmp2.uk/sam-USBA300024TN.m3u8
 LiveNOW from FOX,https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8
@@ -985,6 +986,7 @@ Real Housewives Vault,https://d4whmvwm0rdvi.cloudfront.net/10007/99951243/hls/ma
 Real Housewives Vault,https://d4whmvwm0rdvi.cloudfront.net/10007/99951243/hls/master.m3u8?ads.xumo_channelId=99951243&ads.asnw=169843&ads.afid=380684197&ads.sfid=19208056&ads.csid=xumo_web_NBCURealHousewivesVault_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=3ac7f09c-abe9-42ce-b344-b83762a814b3&ads._fw_vcid2=512116:3ac7f09c-abe9-42ce-b344-b83762a814b3&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3936&ads.xumo_contentName=NBCURealHousewivesVault&ads.xumo_providerId=3936&ads.xumo_providerName=NBCURealHousewivesVault&ads.channelId=99951243&ads._fw_ifa_type=
 Outdoor Channel,https://ott.udptv.xyz/stream/udptvus/outdoorchannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 Outdoor Channel,https://d1sirew68g1yhb.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannel/455.m3u8
+Outdoor Channel,https://d3ehdya3kqqd52.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannelV2/455.m3u8
 Outside TV,https://jmp2.uk/CAAJ2700030ON
 Outside TV,https://jmp2.uk/USAJ3504707A
 Outside TV,https://jmp2.uk/sam-CAAJ2700030ON.m3u8
