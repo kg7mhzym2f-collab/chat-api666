@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/kg7mhzym2f-collab/chat-api666/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-29 18:40:28
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-30 07:20:04
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1439,6 +1439,8 @@ https://ott.udptv.xyz/stream/astro/hitsmovies/master.m3u8?u=cocked&p=dd0abb52723
 https://smart.dxjc.pp.ua/smart.php?id=Axn&token=tmxk
 #EXTINF:-1 tvg-name="Axn HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Axn HD.png" group-title="📡港澳台频道",Axn HD
 https://tmxk.pp.ua/smt.php?id=Axn
+#EXTINF:-1 tvg-name="Axn HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Axn HD.png" group-title="📡港澳台频道",Axn HD
+https://fifabangladesh.site/?id=e222a465-ce68-43df-881d-7d4901cf8ca1
 #EXTINF:-1 tvg-name="Fashion TV Midnight Secret" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Fashion TV Midnight Secret.png" group-title="📡港澳台频道",Fashion TV Midnight Secret
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Kaloopy TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Kaloopy TV.png" group-title="📡港澳台频道",Kaloopy TV
@@ -1901,6 +1903,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6954299e3ea890246dc21520.m3u8
 https://jmp2.uk/plu-683df56f5195c2a60a3f5559.m3u8
 #EXTINF:-1 tvg-name="Swerve Sports" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Swerve Sports.png" group-title="📡国际频道",Swerve Sports
 https://jmp2.uk/rok-51dea927355343df5a6f26545d07adc8.m3u8
+#EXTINF:-1 tvg-name="Swerve Sports" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Swerve Sports.png" group-title="📡国际频道",Swerve Sports
+https://fifabangladesh.site/?id=0c961fa9-e3ff-435a-b6d1-c32185485daa
 #EXTINF:-1 tvg-name="Red Bull TV (1080p)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Red Bull TV (1080p).png" group-title="📡国际频道",Red Bull TV (1080p)
 https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-name="Hot Ones" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Hot Ones.png" group-title="📡国际频道",Hot Ones
