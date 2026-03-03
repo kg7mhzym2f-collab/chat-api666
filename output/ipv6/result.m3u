@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/kg7mhzym2f-collab/chat-api666/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-03 06:59:24
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-03 18:59:13
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1905,6 +1905,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznringside-lgus/playli
 https://jmp2.uk/stvp-GBBD30000038U
 #EXTINF:-1 tvg-name="DAZN Ringside" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/DAZN Ringside.png" group-title="📡国际频道",DAZN Ringside
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6954299e3ea890246dc21520.m3u8
+#EXTINF:-1 tvg-name="DAZN Ringside" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/DAZN Ringside.png" group-title="📡国际频道",DAZN Ringside
+https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
+#EXTINF:-1 tvg-name="DAZN Ringside" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/DAZN Ringside.png" group-title="📡国际频道",DAZN Ringside
+https://jmp2.uk/plu-648056f0f77b61000828f1ba.m3u8
 #EXTINF:-1 tvg-name="Swerve Sports" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Swerve Sports.png" group-title="📡国际频道",Swerve Sports
 https://jmp2.uk/plu-683df56f5195c2a60a3f5559.m3u8
 #EXTINF:-1 tvg-name="Swerve Sports" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Swerve Sports.png" group-title="📡国际频道",Swerve Sports

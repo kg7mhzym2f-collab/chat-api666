@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-03 06:59:24,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-03-03 18:59:13,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -960,6 +960,8 @@ DAZN Ringside,https://jmp2.uk/rok-b6a492b04d7d534fa0e9e69380382d02.m3u8
 DAZN Ringside,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznringside-lgus/playlist.m3u8
 DAZN Ringside,https://jmp2.uk/stvp-GBBD30000038U
 DAZN Ringside,https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6954299e3ea890246dc21520.m3u8
+DAZN Ringside,https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
+DAZN Ringside,https://jmp2.uk/plu-648056f0f77b61000828f1ba.m3u8
 Swerve Sports,https://jmp2.uk/plu-683df56f5195c2a60a3f5559.m3u8
 Swerve Sports,https://jmp2.uk/rok-51dea927355343df5a6f26545d07adc8.m3u8
 Swerve Sports,https://fifabangladesh.site/?id=0c961fa9-e3ff-435a-b6d1-c32185485daa
