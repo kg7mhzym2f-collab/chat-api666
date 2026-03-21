@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-21 18:45:48,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-03-22 06:48:08,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -577,6 +577,8 @@ CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415
 明珠台,http://r.jdshipin.com/jUx8K
 明珠台,http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8
 明珠台,http://hls.168.us.kg/u/84/master.m3u8
+明珠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=mzt
+明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
 TVBPLUS,https://smart.dxjc.pp.ua/smart.php?id=j2_twn&token=tmxk
 美亚电影,https://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
 美亚电影,https://tmxk.pp.ua/smt.php?id=meiyamovie_twn
