@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-24 19:02:39,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-03-25 06:50:44,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -676,6 +676,7 @@ HBO_HITS,https://tmxk.pp.ua/smt.php?id=hbohit_twn
 amc電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv017
 amc電影台,https://mao.ffmking888.dpdns.org/?id=YW1j6Zu75b2x5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 amc電影台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv017
+amc電影台,https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
 時尚運動X,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv014
 時尚運動X,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv014/index.m3u8
 時尚運動X,https://mao.ffmking888.dpdns.org/?id=5pmC5bCa6YGL5YuVWAxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
