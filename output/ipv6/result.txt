@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-09 20:11:41,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-04-10 07:03:30,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -189,11 +189,13 @@ CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-2.php
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-5.php
+CHC动作电影,https://cdn13.178.indevs.in/163189/32a810b251717bd0
 CHC家庭影院,https://shyd.695847.xyz/cms001/ch00000090990000001570/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 CHC家庭影院,https://live.chinacert.cftest5.cn/mg/?id=644368373
 CHC家庭影院,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2%E5%8F%B0
 CHC家庭影院,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-5.php
+CHC家庭影院,https://cdn13.178.indevs.in/163189/adafdc2e9ef83fe0
 CHC影迷电影,https://shyd.695847.xyz/cms001/ch00000090990000001581/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=2025102308014542990736c6044d61a912c8f3b12dd45b&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20251023080145&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.83&SecurityKey=20251023080145&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=34668ef1828997f69db6793d8c4a1f6f&ddCalcu=f364ef62162a804ecf81d832987969b7df96
 CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=2025102318004206dc7c780ec042999fbf2133889f5421&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20251023180042&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.90&SecurityKey=20251023180042&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=36d72e21067600fe3823c84a39c1a34f&ddCalcu=f346e3d2a72120ce9231a04687c630208f3e
