@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-15 07:07:07,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-04-15 19:15:19,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -544,14 +544,17 @@ CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415
 凤凰卫视中文台,http://cdn6.163189.xyz/163189/fhzw
 凤凰卫视中文台,https://tvb.go-iptv.ggff.net/stream/tvb/null-2/master.m3u8?u=admins&p=fa956b808c8f8e3b59be14d7d584761e041a8359d58ba7e1829f12605d76203a
 凤凰卫视中文台,http://r.jdshipin.com/cCCzW
+凤凰卫视中文台,http://iptv.huuc.edu.cn/player.html?channel=fhzw
 凤凰中文,https://smart.dxjc.pp.ua/smart.php?id=phoenixtv_hd&token=tmxk
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰中文,https://tvb.go-iptv.ggff.net/stream/tvb/null-2/master.m3u8?u=admins&p=fa956b808c8f8e3b59be14d7d584761e041a8359d58ba7e1829f12605d76203a
 凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰中文,http://iptv.huuc.edu.cn/player.html?channel=fhzw
 凤凰卫视资讯台,https://smart.dxjc.pp.ua/smart.php?id=phoenixinfo_hd&token=tmxk
 凤凰卫视资讯台,https://tvb.go-iptv.ggff.net/stream/tvb/null/master.m3u8?u=admins&p=fa956b808c8f8e3b59be14d7d584761e041a8359d58ba7e1829f12605d76203a
 凤凰卫视资讯台,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 凤凰卫视资讯台,https://t.freetv.fun/live/feng-huang-zi-xun.php
+凤凰卫视资讯台,http://iptv.huuc.edu.cn/player.html?channel=fhzx
 凤凰资讯,https://smart.dxjc.pp.ua/smart.php?id=phoenixinfo_hd&token=tmxk
 凤凰资讯,https://tmxk.pp.ua/smt.php?id=phoenixinfo_hd
 凤凰资讯,http://r.jdshipin.com/0Rp07
