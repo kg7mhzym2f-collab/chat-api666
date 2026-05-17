@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-17 19:18:13,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-05-18 07:01:46,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -555,6 +555,7 @@ CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415
 凤凰卫视资讯台,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 凤凰卫视资讯台,https://t.freetv.fun/live/feng-huang-zi-xun.php
 凤凰卫视资讯台,http://iptv.huuc.edu.cn/player.html?channel=fhzx
+凤凰卫视资讯台,http://cdn6.163189.xyz/163189/fhzx
 凤凰资讯,https://smart.dxjc.pp.ua/smart.php?id=phoenixinfo_hd&token=tmxk
 凤凰资讯,https://tmxk.pp.ua/smt.php?id=phoenixinfo_hd
 凤凰资讯,http://r.jdshipin.com/0Rp07
