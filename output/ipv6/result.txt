@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-23 19:19:34,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-05-24 07:09:30,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1124,6 +1124,7 @@ HBO,https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 HBO,https://hilay.tv/l/hbo
 HBO 2,https://maldivesn.net/hilaytv/hbo2
 HBO 2,https://hilay.tv/l/hbo2
+HBO 2,https://redbooks.site/gt.php?url=https://tv.roarzone.net/player.php?stream=edge5/hbo-2
 HBO Zone,https://ott.udptv.net/stream/iptv/hbozone/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 HBO Zone,https://maldivesn.net/hilaytv/hbozone
 HBO Zone,https://hilay.tv/l/hbozone
