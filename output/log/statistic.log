@@ -1,58 +1,58 @@
-Category: 📺央视频道, Name: CCTV-1, Total: 397, Valid: 53, Valid Percent: 13.35%, Whitelist: 0, IPv4: 10, IPv6: 387, Min Delay: 0.1 ms, Max Speed: 1.00 M/s, Avg Speed: 0.15 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-2, Total: 422, Valid: 75, Valid Percent: 17.77%, Whitelist: 0, IPv4: 7, IPv6: 415, Min Delay: 0.1 ms, Max Speed: 0.94 M/s, Avg Speed: 0.06 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-3, Total: 404, Valid: 61, Valid Percent: 15.10%, Whitelist: 0, IPv4: 7, IPv6: 397, Min Delay: 0.1 ms, Max Speed: 0.89 M/s, Avg Speed: 0.09 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-4, Total: 404, Valid: 65, Valid Percent: 16.09%, Whitelist: 0, IPv4: 6, IPv6: 398, Min Delay: 0.1 ms, Max Speed: 0.94 M/s, Avg Speed: 0.08 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-5, Total: 391, Valid: 44, Valid Percent: 11.25%, Whitelist: 0, IPv4: 7, IPv6: 384, Min Delay: 0.1 ms, Max Speed: 0.92 M/s, Avg Speed: 0.13 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-5+, Total: 378, Valid: 47, Valid Percent: 12.43%, Whitelist: 0, IPv4: 6, IPv6: 372, Min Delay: 0.1 ms, Max Speed: 0.94 M/s, Avg Speed: 0.10 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-6, Total: 388, Valid: 41, Valid Percent: 10.57%, Whitelist: 0, IPv4: 6, IPv6: 382, Min Delay: 0.1 ms, Max Speed: 0.94 M/s, Avg Speed: 0.11 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-7, Total: 406, Valid: 68, Valid Percent: 16.75%, Whitelist: 0, IPv4: 8, IPv6: 398, Min Delay: 0.1 ms, Max Speed: 0.91 M/s, Avg Speed: 0.09 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-8, Total: 396, Valid: 55, Valid Percent: 13.89%, Whitelist: 0, IPv4: 8, IPv6: 388, Min Delay: 0.1 ms, Max Speed: 1.00 M/s, Avg Speed: 0.13 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-9, Total: 405, Valid: 66, Valid Percent: 16.30%, Whitelist: 0, IPv4: 7, IPv6: 398, Min Delay: 0.1 ms, Max Speed: 0.92 M/s, Avg Speed: 0.09 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-10, Total: 397, Valid: 64, Valid Percent: 16.12%, Whitelist: 0, IPv4: 7, IPv6: 390, Min Delay: 0.1 ms, Max Speed: 1.00 M/s, Avg Speed: 0.10 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-11, Total: 410, Valid: 73, Valid Percent: 17.80%, Whitelist: 0, IPv4: 7, IPv6: 403, Min Delay: 0.1 ms, Max Speed: 0.93 M/s, Avg Speed: 0.08 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-12, Total: 411, Valid: 70, Valid Percent: 17.03%, Whitelist: 0, IPv4: 6, IPv6: 405, Min Delay: 0.1 ms, Max Speed: 0.91 M/s, Avg Speed: 0.06 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-13, Total: 430, Valid: 48, Valid Percent: 11.16%, Whitelist: 0, IPv4: 7, IPv6: 423, Min Delay: 0.1 ms, Max Speed: 1.00 M/s, Avg Speed: 0.13 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-14, Total: 387, Valid: 45, Valid Percent: 11.63%, Whitelist: 0, IPv4: 7, IPv6: 380, Min Delay: 0.1 ms, Max Speed: 1.00 M/s, Avg Speed: 0.12 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-15, Total: 406, Valid: 68, Valid Percent: 16.75%, Whitelist: 0, IPv4: 5, IPv6: 401, Min Delay: 0.1 ms, Max Speed: 0.93 M/s, Avg Speed: 0.06 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-16, Total: 46, Valid: 24, Valid Percent: 52.17%, Whitelist: 0, IPv4: 1, IPv6: 45, Min Delay: 0.1 ms, Max Speed: 0.45 M/s, Avg Speed: 0.02 M/s, Max Resolution: 3840x2160
-Category: 📺央视频道, Name: CCTV-17, Total: 387, Valid: 52, Valid Percent: 13.44%, Whitelist: 0, IPv4: 8, IPv6: 379, Min Delay: 0.1 ms, Max Speed: 67.65 M/s, Avg Speed: 1.42 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-4K, Total: 3, Valid: 3, Valid Percent: 100.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 486 ms, Max Speed: 1.10 M/s, Avg Speed: 0.94 M/s, Max Resolution: 3840x2160
-Category: 📺央视频道, Name: CHC动作电影, Total: 13, Valid: 5, Valid Percent: 38.46%, Whitelist: 0, IPv4: 5, IPv6: 8, Min Delay: 473 ms, Max Speed: 0.93 M/s, Avg Speed: 0.87 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CHC家庭影院, Total: 11, Valid: 5, Valid Percent: 45.45%, Whitelist: 0, IPv4: 5, IPv6: 6, Min Delay: 464 ms, Max Speed: 0.93 M/s, Avg Speed: 0.90 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CHC影迷电影, Total: 333, Valid: 5, Valid Percent: 1.50%, Whitelist: 0, IPv4: 5, IPv6: 328, Min Delay: 462 ms, Max Speed: 0.92 M/s, Avg Speed: 0.88 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 广东卫视, Total: 336, Valid: 66, Valid Percent: 19.64%, Whitelist: 0, IPv4: 8, IPv6: 328, Min Delay: 0.1 ms, Max Speed: 1.00 M/s, Avg Speed: 0.10 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 浙江卫视, Total: 89, Valid: 74, Valid Percent: 83.15%, Whitelist: 0, IPv4: 6, IPv6: 83, Min Delay: 0.1 ms, Max Speed: 0.92 M/s, Avg Speed: 0.07 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 湖南卫视, Total: 81, Valid: 65, Valid Percent: 80.25%, Whitelist: 0, IPv4: 9, IPv6: 72, Min Delay: 0.1 ms, Max Speed: 1.42 M/s, Avg Speed: 0.13 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 北京卫视, Total: 327, Valid: 59, Valid Percent: 18.04%, Whitelist: 0, IPv4: 7, IPv6: 320, Min Delay: 0.1 ms, Max Speed: 1.35 M/s, Avg Speed: 0.11 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 湖北卫视, Total: 417, Valid: 77, Valid Percent: 18.47%, Whitelist: 0, IPv4: 7, IPv6: 410, Min Delay: 0.1 ms, Max Speed: 0.93 M/s, Avg Speed: 0.08 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 黑龙江卫视, Total: 249, Valid: 65, Valid Percent: 26.10%, Whitelist: 0, IPv4: 7, IPv6: 242, Min Delay: 0.1 ms, Max Speed: 0.94 M/s, Avg Speed: 0.10 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 安徽卫视, Total: 79, Valid: 66, Valid Percent: 83.54%, Whitelist: 0, IPv4: 8, IPv6: 71, Min Delay: 0.1 ms, Max Speed: 1.00 M/s, Avg Speed: 0.11 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 重庆卫视, Total: 284, Valid: 62, Valid Percent: 21.83%, Whitelist: 0, IPv4: 8, IPv6: 276, Min Delay: 0.1 ms, Max Speed: 0.93 M/s, Avg Speed: 0.09 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 东方卫视, Total: 402, Valid: 67, Valid Percent: 16.67%, Whitelist: 0, IPv4: 8, IPv6: 394, Min Delay: 0.1 ms, Max Speed: 1.00 M/s, Avg Speed: 0.10 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 东南卫视, Total: 211, Valid: 46, Valid Percent: 21.80%, Whitelist: 0, IPv4: 5, IPv6: 206, Min Delay: 0.1 ms, Max Speed: 0.92 M/s, Avg Speed: 0.09 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 甘肃卫视, Total: 43, Valid: 29, Valid Percent: 67.44%, Whitelist: 0, IPv4: 5, IPv6: 38, Min Delay: 0.1 ms, Max Speed: 0.91 M/s, Avg Speed: 0.15 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 广西卫视, Total: 55, Valid: 40, Valid Percent: 72.73%, Whitelist: 0, IPv4: 6, IPv6: 49, Min Delay: 0.1 ms, Max Speed: 0.92 M/s, Avg Speed: 0.13 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 贵州卫视, Total: 56, Valid: 40, Valid Percent: 71.43%, Whitelist: 0, IPv4: 6, IPv6: 50, Min Delay: 0.1 ms, Max Speed: 0.93 M/s, Avg Speed: 0.13 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 海南卫视, Total: 379, Valid: 42, Valid Percent: 11.08%, Whitelist: 0, IPv4: 5, IPv6: 374, Min Delay: 0.1 ms, Max Speed: 0.93 M/s, Avg Speed: 0.11 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 河北卫视, Total: 233, Valid: 48, Valid Percent: 20.60%, Whitelist: 0, IPv4: 7, IPv6: 226, Min Delay: 0.1 ms, Max Speed: 1.06 M/s, Avg Speed: 0.13 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 河南卫视, Total: 394, Valid: 54, Valid Percent: 13.71%, Whitelist: 0, IPv4: 5, IPv6: 389, Min Delay: 0.1 ms, Max Speed: 0.92 M/s, Avg Speed: 0.07 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 吉林卫视, Total: 399, Valid: 60, Valid Percent: 15.04%, Whitelist: 0, IPv4: 6, IPv6: 393, Min Delay: 0.1 ms, Max Speed: 1.00 M/s, Avg Speed: 0.09 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 江苏卫视, Total: 374, Valid: 71, Valid Percent: 18.98%, Whitelist: 0, IPv4: 8, IPv6: 366, Min Delay: 0.1 ms, Max Speed: 1.00 M/s, Avg Speed: 0.09 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 江西卫视, Total: 403, Valid: 69, Valid Percent: 17.12%, Whitelist: 0, IPv4: 5, IPv6: 398, Min Delay: 0.1 ms, Max Speed: 0.86 M/s, Avg Speed: 0.05 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 辽宁卫视, Total: 385, Valid: 46, Valid Percent: 11.95%, Whitelist: 0, IPv4: 7, IPv6: 378, Min Delay: 0.1 ms, Max Speed: 1.00 M/s, Avg Speed: 0.14 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-1, Total: 397, Valid: 52, Valid Percent: 13.10%, Whitelist: 0, IPv4: 9, IPv6: 388, Min Delay: 0.1 ms, Max Speed: 0.97 M/s, Avg Speed: 0.15 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-2, Total: 423, Valid: 75, Valid Percent: 17.73%, Whitelist: 0, IPv4: 7, IPv6: 416, Min Delay: 0.1 ms, Max Speed: 0.91 M/s, Avg Speed: 0.07 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-3, Total: 405, Valid: 61, Valid Percent: 15.06%, Whitelist: 0, IPv4: 7, IPv6: 398, Min Delay: 0.1 ms, Max Speed: 0.89 M/s, Avg Speed: 0.09 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-4, Total: 405, Valid: 65, Valid Percent: 16.05%, Whitelist: 0, IPv4: 6, IPv6: 399, Min Delay: 0.1 ms, Max Speed: 0.88 M/s, Avg Speed: 0.08 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-5, Total: 392, Valid: 44, Valid Percent: 11.22%, Whitelist: 0, IPv4: 7, IPv6: 385, Min Delay: 0.1 ms, Max Speed: 0.89 M/s, Avg Speed: 0.13 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-5+, Total: 378, Valid: 47, Valid Percent: 12.43%, Whitelist: 0, IPv4: 6, IPv6: 372, Min Delay: 0.1 ms, Max Speed: 0.89 M/s, Avg Speed: 0.11 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-6, Total: 389, Valid: 41, Valid Percent: 10.54%, Whitelist: 0, IPv4: 6, IPv6: 383, Min Delay: 0.1 ms, Max Speed: 0.92 M/s, Avg Speed: 0.12 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-7, Total: 407, Valid: 67, Valid Percent: 16.46%, Whitelist: 0, IPv4: 8, IPv6: 399, Min Delay: 0.1 ms, Max Speed: 0.90 M/s, Avg Speed: 0.08 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-8, Total: 396, Valid: 54, Valid Percent: 13.64%, Whitelist: 0, IPv4: 7, IPv6: 389, Min Delay: 0.1 ms, Max Speed: 0.89 M/s, Avg Speed: 0.10 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-9, Total: 406, Valid: 66, Valid Percent: 16.26%, Whitelist: 0, IPv4: 7, IPv6: 399, Min Delay: 0.1 ms, Max Speed: 0.91 M/s, Avg Speed: 0.08 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-10, Total: 396, Valid: 63, Valid Percent: 15.91%, Whitelist: 0, IPv4: 6, IPv6: 390, Min Delay: 0.1 ms, Max Speed: 0.88 M/s, Avg Speed: 0.08 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-11, Total: 410, Valid: 72, Valid Percent: 17.56%, Whitelist: 0, IPv4: 6, IPv6: 404, Min Delay: 0.1 ms, Max Speed: 0.89 M/s, Avg Speed: 0.07 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-12, Total: 412, Valid: 70, Valid Percent: 16.99%, Whitelist: 0, IPv4: 6, IPv6: 406, Min Delay: 0.1 ms, Max Speed: 0.89 M/s, Avg Speed: 0.07 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-13, Total: 431, Valid: 48, Valid Percent: 11.14%, Whitelist: 0, IPv4: 7, IPv6: 424, Min Delay: 0.1 ms, Max Speed: 1.00 M/s, Avg Speed: 0.13 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-14, Total: 387, Valid: 44, Valid Percent: 11.37%, Whitelist: 0, IPv4: 6, IPv6: 381, Min Delay: 0.1 ms, Max Speed: 0.90 M/s, Avg Speed: 0.11 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-15, Total: 407, Valid: 68, Valid Percent: 16.71%, Whitelist: 0, IPv4: 5, IPv6: 402, Min Delay: 0.1 ms, Max Speed: 0.92 M/s, Avg Speed: 0.06 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-16, Total: 46, Valid: 24, Valid Percent: 52.17%, Whitelist: 0, IPv4: 1, IPv6: 45, Min Delay: 0.1 ms, Max Speed: 0.52 M/s, Avg Speed: 0.02 M/s, Max Resolution: 3840x2160
+Category: 📺央视频道, Name: CCTV-17, Total: 388, Valid: 52, Valid Percent: 13.40%, Whitelist: 0, IPv4: 8, IPv6: 380, Min Delay: 0.1 ms, Max Speed: 58.86 M/s, Avg Speed: 1.25 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-4K, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 515 ms, Max Speed: 1.02 M/s, Avg Speed: 1.02 M/s, Max Resolution: 3840x2160
+Category: 📺央视频道, Name: CHC动作电影, Total: 13, Valid: 5, Valid Percent: 38.46%, Whitelist: 0, IPv4: 5, IPv6: 8, Min Delay: 493 ms, Max Speed: 0.90 M/s, Avg Speed: 0.83 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CHC家庭影院, Total: 11, Valid: 5, Valid Percent: 45.45%, Whitelist: 0, IPv4: 5, IPv6: 6, Min Delay: 500 ms, Max Speed: 0.91 M/s, Avg Speed: 0.85 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CHC影迷电影, Total: 334, Valid: 5, Valid Percent: 1.50%, Whitelist: 0, IPv4: 5, IPv6: 329, Min Delay: 491 ms, Max Speed: 0.89 M/s, Avg Speed: 0.84 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 广东卫视, Total: 337, Valid: 66, Valid Percent: 19.58%, Whitelist: 0, IPv4: 8, IPv6: 329, Min Delay: 0.1 ms, Max Speed: 0.99 M/s, Avg Speed: 0.09 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 浙江卫视, Total: 89, Valid: 74, Valid Percent: 83.15%, Whitelist: 0, IPv4: 6, IPv6: 83, Min Delay: 0.1 ms, Max Speed: 0.88 M/s, Avg Speed: 0.07 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 湖南卫视, Total: 80, Valid: 64, Valid Percent: 80.00%, Whitelist: 0, IPv4: 8, IPv6: 72, Min Delay: 0.1 ms, Max Speed: 14.41 M/s, Avg Speed: 0.32 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 北京卫视, Total: 328, Valid: 59, Valid Percent: 17.99%, Whitelist: 0, IPv4: 7, IPv6: 321, Min Delay: 0.1 ms, Max Speed: 15.37 M/s, Avg Speed: 0.33 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 湖北卫视, Total: 418, Valid: 77, Valid Percent: 18.42%, Whitelist: 0, IPv4: 7, IPv6: 411, Min Delay: 0.1 ms, Max Speed: 0.89 M/s, Avg Speed: 0.06 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 黑龙江卫视, Total: 250, Valid: 65, Valid Percent: 26.00%, Whitelist: 0, IPv4: 7, IPv6: 243, Min Delay: 0.1 ms, Max Speed: 0.88 M/s, Avg Speed: 0.09 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 安徽卫视, Total: 78, Valid: 65, Valid Percent: 83.33%, Whitelist: 0, IPv4: 7, IPv6: 71, Min Delay: 0.1 ms, Max Speed: 0.91 M/s, Avg Speed: 0.08 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 重庆卫视, Total: 284, Valid: 62, Valid Percent: 21.83%, Whitelist: 0, IPv4: 7, IPv6: 277, Min Delay: 0.1 ms, Max Speed: 0.88 M/s, Avg Speed: 0.08 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 东方卫视, Total: 403, Valid: 67, Valid Percent: 16.63%, Whitelist: 0, IPv4: 8, IPv6: 395, Min Delay: 0.1 ms, Max Speed: 1.00 M/s, Avg Speed: 0.09 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 东南卫视, Total: 211, Valid: 46, Valid Percent: 21.80%, Whitelist: 0, IPv4: 5, IPv6: 206, Min Delay: 0.1 ms, Max Speed: 0.83 M/s, Avg Speed: 0.06 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 甘肃卫视, Total: 43, Valid: 29, Valid Percent: 67.44%, Whitelist: 0, IPv4: 5, IPv6: 38, Min Delay: 0.1 ms, Max Speed: 0.81 M/s, Avg Speed: 0.11 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 广西卫视, Total: 55, Valid: 40, Valid Percent: 72.73%, Whitelist: 0, IPv4: 6, IPv6: 49, Min Delay: 0.1 ms, Max Speed: 0.91 M/s, Avg Speed: 0.12 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 贵州卫视, Total: 56, Valid: 40, Valid Percent: 71.43%, Whitelist: 0, IPv4: 6, IPv6: 50, Min Delay: 0.1 ms, Max Speed: 0.86 M/s, Avg Speed: 0.12 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 海南卫视, Total: 380, Valid: 42, Valid Percent: 11.05%, Whitelist: 0, IPv4: 5, IPv6: 375, Min Delay: 0.1 ms, Max Speed: 0.82 M/s, Avg Speed: 0.09 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 河北卫视, Total: 234, Valid: 48, Valid Percent: 20.51%, Whitelist: 0, IPv4: 7, IPv6: 227, Min Delay: 0.1 ms, Max Speed: 1.05 M/s, Avg Speed: 0.12 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 河南卫视, Total: 395, Valid: 54, Valid Percent: 13.67%, Whitelist: 0, IPv4: 5, IPv6: 390, Min Delay: 0.1 ms, Max Speed: 0.77 M/s, Avg Speed: 0.06 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 吉林卫视, Total: 400, Valid: 60, Valid Percent: 15.00%, Whitelist: 0, IPv4: 6, IPv6: 394, Min Delay: 0.1 ms, Max Speed: 1.00 M/s, Avg Speed: 0.07 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 江苏卫视, Total: 374, Valid: 70, Valid Percent: 18.72%, Whitelist: 0, IPv4: 7, IPv6: 367, Min Delay: 0.1 ms, Max Speed: 0.83 M/s, Avg Speed: 0.06 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 江西卫视, Total: 404, Valid: 69, Valid Percent: 17.08%, Whitelist: 0, IPv4: 5, IPv6: 399, Min Delay: 0.1 ms, Max Speed: 0.92 M/s, Avg Speed: 0.06 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 辽宁卫视, Total: 386, Valid: 46, Valid Percent: 11.92%, Whitelist: 0, IPv4: 7, IPv6: 379, Min Delay: 0.1 ms, Max Speed: 1.00 M/s, Avg Speed: 0.13 M/s, Max Resolution: 1920x1080
 Category: 📡卫视频道, Name: 内蒙古卫视, Total: 37, Valid: 21, Valid Percent: 56.76%, Whitelist: 0, IPv4: 0, IPv6: 37, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 宁夏卫视, Total: 318, Valid: 20, Valid Percent: 6.29%, Whitelist: 0, IPv4: 0, IPv6: 318, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 青海卫视, Total: 363, Valid: 31, Valid Percent: 8.54%, Whitelist: 0, IPv4: 5, IPv6: 358, Min Delay: 0.1 ms, Max Speed: 0.93 M/s, Avg Speed: 0.13 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 山东卫视, Total: 62, Valid: 44, Valid Percent: 70.97%, Whitelist: 0, IPv4: 3, IPv6: 59, Min Delay: 0.1 ms, Max Speed: 0.93 M/s, Avg Speed: 0.06 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 宁夏卫视, Total: 319, Valid: 20, Valid Percent: 6.27%, Whitelist: 0, IPv4: 0, IPv6: 319, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 青海卫视, Total: 364, Valid: 31, Valid Percent: 8.52%, Whitelist: 0, IPv4: 5, IPv6: 359, Min Delay: 0.1 ms, Max Speed: 0.89 M/s, Avg Speed: 0.13 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 山东卫视, Total: 62, Valid: 44, Valid Percent: 70.97%, Whitelist: 0, IPv4: 3, IPv6: 59, Min Delay: 0.1 ms, Max Speed: 0.80 M/s, Avg Speed: 0.05 M/s, Max Resolution: 1920x1080
 Category: 📡卫视频道, Name: 山西卫视, Total: 26, Valid: 12, Valid Percent: 46.15%, Whitelist: 0, IPv4: 0, IPv6: 26, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 陕西卫视, Total: 350, Valid: 24, Valid Percent: 6.86%, Whitelist: 0, IPv4: 2, IPv6: 348, Min Delay: 0.1 ms, Max Speed: 74.48 M/s, Avg Speed: 3.14 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 四川卫视, Total: 53, Valid: 35, Valid Percent: 66.04%, Whitelist: 0, IPv4: 6, IPv6: 47, Min Delay: 0.1 ms, Max Speed: 0.88 M/s, Avg Speed: 0.11 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 深圳卫视, Total: 62, Valid: 40, Valid Percent: 64.52%, Whitelist: 0, IPv4: 7, IPv6: 55, Min Delay: 0.1 ms, Max Speed: 0.93 M/s, Avg Speed: 0.14 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 三沙卫视, Total: 257, Valid: 11, Valid Percent: 4.28%, Whitelist: 0, IPv4: 0, IPv6: 257, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 天津卫视, Total: 55, Valid: 41, Valid Percent: 74.55%, Whitelist: 0, IPv4: 1, IPv6: 54, Min Delay: 0.1 ms, Max Speed: 0.51 M/s, Avg Speed: 0.01 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 陕西卫视, Total: 351, Valid: 24, Valid Percent: 6.84%, Whitelist: 0, IPv4: 2, IPv6: 349, Min Delay: 0.1 ms, Max Speed: 109.59 M/s, Avg Speed: 4.60 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 四川卫视, Total: 52, Valid: 35, Valid Percent: 67.31%, Whitelist: 0, IPv4: 5, IPv6: 47, Min Delay: 0.1 ms, Max Speed: 0.80 M/s, Avg Speed: 0.07 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 深圳卫视, Total: 62, Valid: 40, Valid Percent: 64.52%, Whitelist: 0, IPv4: 7, IPv6: 55, Min Delay: 0.1 ms, Max Speed: 0.92 M/s, Avg Speed: 0.12 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 三沙卫视, Total: 258, Valid: 11, Valid Percent: 4.26%, Whitelist: 0, IPv4: 0, IPv6: 258, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 天津卫视, Total: 55, Valid: 41, Valid Percent: 74.55%, Whitelist: 0, IPv4: 1, IPv6: 54, Min Delay: 0.1 ms, Max Speed: 0.73 M/s, Avg Speed: 0.02 M/s, Max Resolution: 1920x1080
 Category: 📡卫视频道, Name: 西藏卫视, Total: 39, Valid: 21, Valid Percent: 53.85%, Whitelist: 0, IPv4: 0, IPv6: 39, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📡卫视频道, Name: 新疆卫视, Total: 35, Valid: 21, Valid Percent: 60.00%, Whitelist: 0, IPv4: 0, IPv6: 35, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 云南卫视, Total: 43, Valid: 30, Valid Percent: 69.77%, Whitelist: 0, IPv4: 6, IPv6: 37, Min Delay: 0.1 ms, Max Speed: 0.92 M/s, Avg Speed: 0.16 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 云南卫视, Total: 43, Valid: 30, Valid Percent: 69.77%, Whitelist: 0, IPv4: 6, IPv6: 37, Min Delay: 0.1 ms, Max Speed: 0.92 M/s, Avg Speed: 0.17 M/s, Max Resolution: 1920x1080
 Category: 📡港澳台频道, Name: 凤凰卫视中文台, Total: 6, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 6, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡港澳台频道, Name: 凤凰中文, Total: 6, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 6, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡港澳台频道, Name: 凤凰卫视资讯台, Total: 7, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 7, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
@@ -61,7 +61,7 @@ Category: 📡港澳台频道, Name: 凤凰香港, Total: 11, Valid: 0, Valid Pe
 Category: 📡港澳台频道, Name: 翡翠台, Total: 26, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 25, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📡港澳台频道, Name: 明珠台, Total: 11, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 11, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡港澳台频道, Name: TVBPLUS, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 📡港澳台频道, Name: 美亚C+, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1959 ms, Max Speed: 0.87 M/s, Avg Speed: 0.87 M/s, Max Resolution: 1920x1080
+Category: 📡港澳台频道, Name: 美亚C+, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2244 ms, Max Speed: 0.78 M/s, Avg Speed: 0.78 M/s, Max Resolution: 1920x1080
 Category: 📡港澳台频道, Name: 美亚电影, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡港澳台频道, Name: TVBS精采台, Total: 5, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 5, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡港澳台频道, Name: TVBS新聞台, Total: 5, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 5, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
@@ -80,7 +80,7 @@ Category: 📡港澳台频道, Name: 东森综合台, Total: 1, Valid: 0, Valid 
 Category: 📡港澳台频道, Name: 东森电影台, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡港澳台频道, Name: 东森电影, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡港澳台频道, Name: TVBS HD, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 📡港澳台频道, Name: TVBS新闻台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 6307 ms, Max Speed: 0.32 M/s, Avg Speed: 0.32 M/s, Max Resolution: 1280x720
+Category: 📡港澳台频道, Name: TVBS新闻台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 7181 ms, Max Speed: 0.28 M/s, Avg Speed: 0.28 M/s, Max Resolution: 1280x720
 Category: 📡港澳台频道, Name: 鏡電視新聞台, Total: 4, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 4, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡港澳台频道, Name: 非凡新聞台, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡港澳台频道, Name: 非凡新闻, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
@@ -104,10 +104,10 @@ Category: 📡港澳台频道, Name: amc電影台, Total: 4, Valid: 0, Valid Per
 Category: 📡港澳台频道, Name: 時尚運動X, Total: 5, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 5, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡港澳台频道, Name: 民視旅遊台, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡港澳台频道, Name: TVBS綜藝台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 📡港澳台频道, Name: 中視, Total: 8, Valid: 1, Valid Percent: 12.50%, Whitelist: 0, IPv4: 1, IPv6: 7, Min Delay: 347 ms, Max Speed: 0.29 M/s, Avg Speed: 0.29 M/s, Max Resolution: 1920x1080
+Category: 📡港澳台频道, Name: 中視, Total: 8, Valid: 1, Valid Percent: 12.50%, Whitelist: 0, IPv4: 1, IPv6: 7, Min Delay: 389 ms, Max Speed: 0.30 M/s, Avg Speed: 0.30 M/s, Max Resolution: 1920x1080
 Category: 📡港澳台频道, Name: 中视新闻, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡港澳台频道, Name: 中视经典, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 📡港澳台频道, Name: 華視, Total: 8, Valid: 1, Valid Percent: 12.50%, Whitelist: 0, IPv4: 1, IPv6: 7, Min Delay: 344 ms, Max Speed: 0.30 M/s, Avg Speed: 0.30 M/s, Max Resolution: 1920x1080
+Category: 📡港澳台频道, Name: 華視, Total: 8, Valid: 1, Valid Percent: 12.50%, Whitelist: 0, IPv4: 1, IPv6: 7, Min Delay: 395 ms, Max Speed: 0.30 M/s, Avg Speed: 0.30 M/s, Max Resolution: 1920x1080
 Category: 📡港澳台频道, Name: 民視, Total: 5, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 5, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡港澳台频道, Name: 民视新闻台, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡港澳台频道, Name: TVBS, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
@@ -149,12 +149,12 @@ Category: 📡国际频道, Name: Fight Network, Total: 14, Valid: 0, Valid Perc
 Category: 📡国际频道, Name: FIGHT | FIGHT NETWORK, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡国际频道, Name: FIGHT | Lucha Plus, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡国际频道, Name: FIGHT | Peak Fighting, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 📡国际频道, Name: FIGHT | PFL, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 214 ms, Max Speed: 9.87 M/s, Avg Speed: 9.87 M/s, Max Resolution: 640x360
+Category: 📡国际频道, Name: FIGHT | PFL, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 111 ms, Max Speed: 20.66 M/s, Avg Speed: 20.66 M/s, Max Resolution: 640x360
 Category: 📡国际频道, Name: FIGHT | TNA Wrestling Channel, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡国际频道, Name: GLORY Kickboxing, Total: 341, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 341, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡国际频道, Name: TNA Wrestling Channel, Total: 124, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 124, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 📡国际频道, Name: Swerve Combat, Total: 336, Valid: 1, Valid Percent: 0.30%, Whitelist: 0, IPv4: 1, IPv6: 335, Min Delay: 301 ms, Max Speed: 11.38 M/s, Avg Speed: 11.38 M/s, Max Resolution: 1920x1080
-Category: 📡国际频道, Name: UFC, Total: 368, Valid: 1, Valid Percent: 0.27%, Whitelist: 0, IPv4: 1, IPv6: 367, Min Delay: 160 ms, Max Speed: 22.97 M/s, Avg Speed: 22.97 M/s, Max Resolution: 1920x1080
+Category: 📡国际频道, Name: Swerve Combat, Total: 336, Valid: 1, Valid Percent: 0.30%, Whitelist: 0, IPv4: 1, IPv6: 335, Min Delay: 84 ms, Max Speed: 41.14 M/s, Avg Speed: 41.14 M/s, Max Resolution: 1920x1080
+Category: 📡国际频道, Name: UFC, Total: 368, Valid: 1, Valid Percent: 0.27%, Whitelist: 0, IPv4: 1, IPv6: 367, Min Delay: 70 ms, Max Speed: 57.26 M/s, Avg Speed: 57.26 M/s, Max Resolution: 1920x1080
 Category: 📡国际频道, Name: FIGHT | WWE, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡国际频道, Name: PFL MMA, Total: 347, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 347, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡国际频道, Name: DAZN Ringside, Total: 13, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 13, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
@@ -193,8 +193,8 @@ Category: 📡国际频道, Name: HBO, Total: 3, Valid: 0, Valid Percent: 0.00%,
 Category: 📡国际频道, Name: HBO 2, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡国际频道, Name: HBO Zone, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡国际频道, Name: HBO HD, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 📡国际频道, Name: EN | HBO Movies, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 667 ms, Max Speed: 6.26 M/s, Avg Speed: 6.26 M/s, Max Resolution: 960x540
-Category: 📡国际频道, Name: HBO Family US, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 602 ms, Max Speed: 1.30 M/s, Avg Speed: 1.30 M/s, Max Resolution: 1920x1080
+Category: 📡国际频道, Name: EN | HBO Movies, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 9001 ms, Max Speed: 0.53 M/s, Avg Speed: 0.53 M/s, Max Resolution: 960x540
+Category: 📡国际频道, Name: HBO Family US, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1844 ms, Max Speed: 0.38 M/s, Avg Speed: 0.38 M/s, Max Resolution: 1920x1080
 Category: 📡国际频道, Name: Scares by Shudder, Total: 333, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 333, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡国际频道, Name: Sony PIX HD, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡国际频道, Name: Sony Movie Channel, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
@@ -206,23 +206,23 @@ Category: 📡国际频道, Name: MovieSphere by Lionsgate, Total: 332, Valid: 0
 Category: 📡国际频道, Name: Hi-Yah!, Total: 331, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 331, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡国际频道, Name: Shades of Black, Total: 337, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 337, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡国际频道, Name: Disney XD, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 📡国际频道, Name: Miami TV Jenny Live (720p) [Not 24/7], Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1259 ms, Max Speed: 3.91 M/s, Avg Speed: 3.91 M/s, Max Resolution: 1920x1080
-Category: 📡国际频道, Name: Miami TV Mexico (1080p), Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 998 ms, Max Speed: 3.25 M/s, Avg Speed: 3.25 M/s, Max Resolution: 1280x720
-Category: 📡俄语频道, Name: Babes, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 1, IPv6: 2, Min Delay: 1514 ms, Max Speed: 1.34 M/s, Avg Speed: 1.34 M/s, Max Resolution: None
-Category: 📡俄语频道, Name: Babes TV HD, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 968 ms, Max Speed: 0.14 M/s, Avg Speed: 0.14 M/s, Max Resolution: 1920x1080
-Category: 📡俄语频道, Name: Brazzers, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1430 ms, Max Speed: 1.19 M/s, Avg Speed: 1.19 M/s, Max Resolution: None
-Category: 📡俄语频道, Name: Extasy, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1605 ms, Max Speed: 1.32 M/s, Avg Speed: 1.32 M/s, Max Resolution: None
-Category: 📡俄语频道, Name: Erox, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1521 ms, Max Speed: 1.31 M/s, Avg Speed: 1.31 M/s, Max Resolution: None
-Category: 📡俄语频道, Name: CentoXCento HD, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1997 ms, Max Speed: 0.70 M/s, Avg Speed: 0.70 M/s, Max Resolution: 1920x1080
-Category: 📡俄语频道, Name: Desire HD, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1728 ms, Max Speed: 1.61 M/s, Avg Speed: 1.61 M/s, Max Resolution: None
-Category: 📡俄语频道, Name: Dorcel, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1508 ms, Max Speed: 1.40 M/s, Avg Speed: 1.40 M/s, Max Resolution: None
+Category: 📡国际频道, Name: Miami TV Jenny Live (720p) [Not 24/7], Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 708 ms, Max Speed: 5.28 M/s, Avg Speed: 5.28 M/s, Max Resolution: 1920x1080
+Category: 📡国际频道, Name: Miami TV Mexico (1080p), Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1599 ms, Max Speed: 5.83 M/s, Avg Speed: 5.83 M/s, Max Resolution: 1280x720
+Category: 📡俄语频道, Name: Babes, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 1, IPv6: 2, Min Delay: 1225 ms, Max Speed: 1.72 M/s, Avg Speed: 1.72 M/s, Max Resolution: None
+Category: 📡俄语频道, Name: Babes TV HD, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 786 ms, Max Speed: 0.17 M/s, Avg Speed: 0.17 M/s, Max Resolution: 1920x1080
+Category: 📡俄语频道, Name: Brazzers, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1128 ms, Max Speed: 1.49 M/s, Avg Speed: 1.49 M/s, Max Resolution: None
+Category: 📡俄语频道, Name: Extasy, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1231 ms, Max Speed: 1.64 M/s, Avg Speed: 1.64 M/s, Max Resolution: None
+Category: 📡俄语频道, Name: Erox, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1235 ms, Max Speed: 1.64 M/s, Avg Speed: 1.64 M/s, Max Resolution: None
+Category: 📡俄语频道, Name: CentoXCento HD, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1636 ms, Max Speed: 0.86 M/s, Avg Speed: 0.86 M/s, Max Resolution: 1920x1080
+Category: 📡俄语频道, Name: Desire HD, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1226 ms, Max Speed: 2.01 M/s, Avg Speed: 2.01 M/s, Max Resolution: None
+Category: 📡俄语频道, Name: Dorcel, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1218 ms, Max Speed: 1.64 M/s, Avg Speed: 1.64 M/s, Max Resolution: None
 Category: 📡俄语频道, Name: Hustler HD, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 📡俄语频道, Name: Porn Classic, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1236 ms, Max Speed: 0.52 M/s, Avg Speed: 0.52 M/s, Max Resolution: 1280x720
-Category: 📡俄语频道, Name: Erox HD, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1125 ms, Max Speed: 0.12 M/s, Avg Speed: 0.12 M/s, Max Resolution: 1920x1080
-Category: 📡俄语频道, Name: Leo HD, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1538 ms, Max Speed: 1.43 M/s, Avg Speed: 1.43 M/s, Max Resolution: None
-Category: 📡俄语频道, Name: Reality Kings, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1513 ms, Max Speed: 1.44 M/s, Avg Speed: 1.44 M/s, Max Resolution: None
-Category: 📡俄语频道, Name: Eroxxx, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 1, IPv6: 2, Min Delay: 1470 ms, Max Speed: 1.40 M/s, Avg Speed: 1.40 M/s, Max Resolution: None
-Category: 📡俄语频道, Name: DDF, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1804 ms, Max Speed: 2.33 M/s, Avg Speed: 2.33 M/s, Max Resolution: 1920x1080
-Category: 📡俄语频道, Name: japanh, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 858 ms, Max Speed: 0.39 M/s, Avg Speed: 0.39 M/s, Max Resolution: 1920x1080
-Category: 📡俄语频道, Name: japanhdv, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 840 ms, Max Speed: 0.39 M/s, Avg Speed: 0.38 M/s, Max Resolution: 1280x720
-Category: 📡俄语频道, Name: passion, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2445 ms, Max Speed: 0.80 M/s, Avg Speed: 0.80 M/s, Max Resolution: 1920x1080
+Category: 📡俄语频道, Name: Porn Classic, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1177 ms, Max Speed: 0.66 M/s, Avg Speed: 0.66 M/s, Max Resolution: 1280x720
+Category: 📡俄语频道, Name: Erox HD, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 788 ms, Max Speed: 0.17 M/s, Avg Speed: 0.17 M/s, Max Resolution: 1920x1080
+Category: 📡俄语频道, Name: Leo HD, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1226 ms, Max Speed: 1.74 M/s, Avg Speed: 1.74 M/s, Max Resolution: None
+Category: 📡俄语频道, Name: Reality Kings, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1229 ms, Max Speed: 1.74 M/s, Avg Speed: 1.74 M/s, Max Resolution: None
+Category: 📡俄语频道, Name: Eroxxx, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 1, IPv6: 2, Min Delay: 1220 ms, Max Speed: 1.65 M/s, Avg Speed: 1.65 M/s, Max Resolution: None
+Category: 📡俄语频道, Name: DDF, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1478 ms, Max Speed: 2.67 M/s, Avg Speed: 2.67 M/s, Max Resolution: 1920x1080
+Category: 📡俄语频道, Name: japanh, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 649 ms, Max Speed: 0.49 M/s, Avg Speed: 0.49 M/s, Max Resolution: 1920x1080
+Category: 📡俄语频道, Name: japanhdv, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 649 ms, Max Speed: 0.50 M/s, Avg Speed: 0.49 M/s, Max Resolution: 1280x720
+Category: 📡俄语频道, Name: passion, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1979 ms, Max Speed: 0.98 M/s, Avg Speed: 0.98 M/s, Max Resolution: 1920x1080
