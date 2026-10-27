@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-27 09:27:00,http://60.4.28.229:8077/rtp/239.253.92.83:8012
+2026-10-27 23:46:31,http://60.4.28.229:8077/rtp/239.253.92.83:8012
 
 📺央视频道,#genre#
 CCTV-1,http://60.4.28.229:8077/rtp/239.253.92.83:8012
@@ -32,8 +32,8 @@ CCTV-3,http://[2409:8087:1a01:df::4041]/TVOD/88888888/224/3221225799/main.m3u8
 CCTV-3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8
 CCTV-3,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8
 CCTV-3,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8
-CCTV-4,http://144.255.16.190:6688/udp/239.21.1.154:5002
 CCTV-4,http://144.255.16.190:6688/udp/239.21.2.29:5002
+CCTV-4,http://144.255.16.190:6688/udp/239.21.1.154:5002
 CCTV-4,http://106.59.2.53:55555/udp/239.200.200.128:8652
 CCTV-4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
 CCTV-4,http://z.b.bkpcp.top/m.php?id=CCTV-4国际
@@ -62,8 +62,8 @@ CCTV-5+,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
 CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV-5+,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
 CCTV-5+,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
-CCTV-6,http://144.255.16.190:6688/udp/239.21.2.47:5002
 CCTV-6,http://60.4.28.229:8077/rtp/239.253.92.193:6058
+CCTV-6,http://144.255.16.190:6688/udp/239.21.2.47:5002
 CCTV-6,http://106.59.2.53:55555/rtp/239.200.200.21:9020
 CCTV-6,http://171.8.84.49:8800/rtp/239.16.20.6:10060
 CCTV-6,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
@@ -72,8 +72,8 @@ CCTV-6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
 CCTV-6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
 CCTV-6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8
 CCTV-6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226010/index.m3u8
-CCTV-7,http://144.255.16.190:6688/udp/239.21.1.152:5002
 CCTV-7,http://1.192.242.239:8188/rtp/239.16.20.51:10510
+CCTV-7,http://144.255.16.190:6688/udp/239.21.1.152:5002
 CCTV-7,http://106.59.2.53:55555/udp/239.200.200.105:8104
 CCTV-7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
 CCTV-7,http://goo.bkpcp.top/mg/CCTV7
@@ -240,9 +240,9 @@ CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415
 湖南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873458.m3u8
 湖南卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225610/index.m3u8
 湖南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226493/1.m3u8
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://60.4.28.229:8077/rtp/239.253.92.87:8014
 北京卫视,http://1.192.242.239:8188/rtp/239.16.20.76:10760
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://171.8.84.49:8800/rtp/239.16.20.76:10760
 北京卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143
 北京卫视,http://z.b.bkpcp.top/m.php?id=bjws
@@ -293,13 +293,13 @@ CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415
 东方卫视,http://60.4.28.229:8077/rtp/239.253.92.89:8019
 东方卫视,http://106.59.2.53:55555/udp/239.200.200.8:8032
 东方卫视,http://171.8.84.49:8800/rtp/239.16.20.73:10730
-东方卫视,http://144.255.16.190:6688/udp/239.21.1.111:5002
 东方卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010054
 东方卫视,http://z.b.bkpcp.top/m.php?id=dfws#rtsp://115.85.232.19/PLTV/88888910/224/3221225531/10000100000000060000000000107311_0.smil
 东方卫视,http://goo.bkpcp.top/mg/dfws
 东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
 东方卫视,https://www.freetv.top/migu/651632648.m3u8?migutoken=67b4219a3e6acdcf288118ed6bf84d3197052966f0bc854079b6038b3fca6437744ca78bb0ea1fad6f61b4c73d0df57bd8b539ec247fd28ce16d1375716bbf774ea19c99e4585bb828fa3851c0
 东方卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873462.m3u8
+东方卫视,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1746334807-ddb61092a75249868c8bd1834313f437-0-8a760296d281d86bc4612f5fc4f85247
 东南卫视,http://144.255.16.190:6688/udp/239.21.1.113:5002
 东南卫视,http://171.8.84.49:8800/rtp/239.16.20.82:10820
 东南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010096
@@ -330,8 +330,8 @@ CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 广西卫视,http://[2409:8087:1a01:df::4047]:80/TVOD/88888888/224/3221226091/main.m3u8
-贵州卫视,http://144.255.16.190:6688/udp/239.21.1.166:5002
 贵州卫视,http://60.4.28.229:8077/rtp/239.253.92.105:6055
+贵州卫视,http://144.255.16.190:6688/udp/239.21.1.166:5002
 贵州卫视,http://106.59.2.53:55555/udp/239.200.201.119:8788
 贵州卫视,http://171.8.84.49:8800/rtp/239.16.20.81:10810
 贵州卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226474
@@ -362,7 +362,6 @@ CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415
 河北卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873460.m3u8
 河南卫视,http://144.255.16.190:6688/udp/239.21.2.37:5002
 河南卫视,http://106.59.2.53:55555/udp/239.200.201.158:8412
-河南卫视,http://171.8.84.49:8800/rtp/239.16.20.21:10210
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480
 河南卫视,http://z.b.bkpcp.top/m.php?id=hnws
@@ -370,8 +369,8 @@ CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415
 河南卫视,http://goo.bkpcp.top/mg/hnws
 河南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226480/index.m3u8
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=7f59b59573ebfe76d91b35446bb207ad&wsTime=1746680128
+河南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887270.m3u8
 吉林卫视,http://106.59.2.53:55555/udp/239.200.201.127:8792
-吉林卫视,http://171.8.84.49:8800/rtp/239.16.20.94:10940
 吉林卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010075
 吉林卫视,http://z.b.bkpcp.top/m.php?id=jlws
 吉林卫视,http://j.x.bkpcp.top/jx/JILHD
@@ -380,6 +379,7 @@ CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415
 吉林卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226397/index.m3u8
 吉林卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226397/index.m3u8
 吉林卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226533/1.m3u8
+吉林卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226886/1.m3u8
 江苏卫视,http://144.255.16.190:6688/udp/239.21.1.89:5002
 江苏卫视,http://171.8.84.49:8800/rtp/239.16.20.74:10740
 江苏卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010059
