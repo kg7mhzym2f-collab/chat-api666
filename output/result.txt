@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-01 09:09:41,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-11-02 00:36:57,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -183,12 +183,8 @@ CCTV-17,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 CCTV-17,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8
 CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 CCTV-4K,http://60.4.28.229:8077/rtp/239.253.92.219:6228
-CCTV-4K,http://183.236.43.98:4013/udp/239.77.0.174:5146
-CCTV-4K,http://183.236.43.98:4013/udp/239.77.0.194:5146
 CCTV-4K,http://60.4.28.229:8077/rtp/239.253.93.134:6631
 CCTV-4K,http://106.59.2.53:55555/rtp/239.200.200.202:8784
-CCTV-4K,rtsp://111.48.34.138:1554/170000004112/HBGD9935055570721873923307127370
-CCTV-4K,rtsp://111.48.34.138:1554/170000004112/HBGD8884193178146078726126298415
 CHC动作电影,https://shyd.695847.xyz/cms001/ch00000090990000001580/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 CHC动作电影,https://live.chinacert.cftest5.cn/mg/?id=644368714
 CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E5%8F%B0
@@ -265,7 +261,6 @@ CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415
 湖北卫视,https://smart.pendy.dpdns.org/Smart.php?id=hubei
 湖北卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873465.m3u8
 湖北卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226501/index.m3u8
-黑龙江卫视,http://171.8.84.49:8800/rtp/239.16.20.99:10990
 黑龙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010056
 黑龙江卫视,http://j.x.bkpcp.top/jx/HEILJHD
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
@@ -275,6 +270,7 @@ CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415
 黑龙江卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226327/index.m3u8
 黑龙江卫视,http://[2409:8087:1a01:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8
 黑龙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226327/index.m3u8
+黑龙江卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 安徽卫视,http://171.8.84.49:8800/rtp/239.16.20.75:10750
 安徽卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391
 安徽卫视,http://j.x.bkpcp.top/jx/ANHUIHD
@@ -865,7 +861,6 @@ NBC News NOW,https://jmp2.uk/sam-GBBB1500004LG.m3u8
 NBC News NOW,https://jmp2.uk/sam-ITBC4000028E.m3u8
 National Geographic Wild,https://maldivesn.net/hilaytv/natgeowild
 National Geographic Wild,https://hilay.tv/l/natgeowild
-Discovery Channel,http://37.49.224.5/stream/11/index.m3u8
 Discovery Channel,https://world-proxifier.xyz/daddylive/p/C46CGJR5GIYCEPDSBAWTQX24KZMBAGQ2CBQGIYY/index.m3u8
 Discovery Channel,https://ott.udptv.xyz/stream/astro/discoverychannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 Discovery Channel,https://maldivesn.net/hilaytv/discovery
@@ -1243,6 +1238,6 @@ Eroxxx,http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/54982/hls/pl.
 Eroxxx,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/54982/hlsx/pl.m3u8
 DDF,http://tvshare.ottrast.com/iptv/BF9GWX8VNPYM9X/6217/index.m3u8
 japanh,http://7e401b76.rossteleccom.net/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6225/index.m3u8
-japanhdv,http://d029dcec.kazmazpaz.ru/iptv/BG3TE5HEQRXENC/6200/manifest.m3u8
 japanhdv,http://88b9da48.kazmazpaz.ru/iptv/WSMQQSF4M7PGWH/6225/manifest.m3u8
+japanhdv,http://d029dcec.kazmazpaz.ru/iptv/BG3TE5HEQRXENC/6200/manifest.m3u8
 passion,https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
