@@ -1,13 +1,13 @@
 🕘️更新时间,#genre#
-2026-11-03 11:19:42,http://171.8.84.49:8800/rtp/239.16.20.2:10020
+2026-11-04 01:33:02,http://171.8.84.49:8800/rtp/239.16.20.2:10020
 
 📺央视频道,#genre#
 CCTV-2,http://171.8.84.49:8800/rtp/239.16.20.2:10020
 CCTV-3,http://171.8.84.49:8800/rtp/239.16.20.3:10030
 CCTV-5,http://171.8.84.49:8800/rtp/239.16.20.53:10530
 CCTV-5+,http://60.4.28.229:8077/rtp/239.253.92.82:8013
-CCTV-5+,http://1.192.242.239:8188/rtp/239.16.20.5:10050
 CCTV-5+,http://171.8.84.49:8800/rtp/239.16.20.5:10050
+CCTV-5+,http://1.192.242.239:8188/rtp/239.16.20.5:10050
 CCTV-6,http://106.59.2.53:55555/rtp/239.200.200.21:9020
 CCTV-6,http://171.8.84.49:8800/rtp/239.16.20.6:10060
 CCTV-7,http://1.192.242.239:8188/rtp/239.16.20.51:10510
@@ -21,9 +21,9 @@ CCTV-15,http://60.4.28.229:8077/rtp/239.253.93.154:6322
 CCTV-15,http://171.8.84.49:8800/rtp/239.16.20.15:10150
 CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-17,http://171.8.84.49:8800/rtp/239.16.20.7:10070
-CCTV-4K,http://60.4.28.229:8077/rtp/239.253.92.219:6228
-CCTV-4K,http://60.4.28.229:8077/rtp/239.253.93.134:6631
 CCTV-4K,http://106.59.2.53:55555/rtp/239.200.200.202:8784
+CCTV-4K,http://60.4.28.229:8077/rtp/239.253.93.134:6631
+CCTV-4K,http://60.4.28.229:8077/rtp/239.253.92.219:6228
 
 📡卫视频道,#genre#
 广东卫视,http://171.8.84.49:8800/rtp/239.16.20.98:10980
@@ -94,6 +94,6 @@ Reality Kings,http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 DDF,http://tvshare.ottrast.com/iptv/BF9GWX8VNPYM9X/6217/index.m3u8
 japanh,http://7e401b76.rossteleccom.net/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6225/index.m3u8
-japanhdv,http://88b9da48.kazmazpaz.ru/iptv/WSMQQSF4M7PGWH/6225/manifest.m3u8
 japanhdv,http://d029dcec.kazmazpaz.ru/iptv/BG3TE5HEQRXENC/6200/manifest.m3u8
+japanhdv,http://88b9da48.kazmazpaz.ru/iptv/WSMQQSF4M7PGWH/6225/manifest.m3u8
 passion,https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
