@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-05 01:46:14,http://171.8.84.49:8800/rtp/239.16.20.2:10020
+2026-11-05 10:01:35,http://171.8.84.49:8800/rtp/239.16.20.2:10020
 
 📺央视频道,#genre#
 CCTV-2,http://171.8.84.49:8800/rtp/239.16.20.2:10020
@@ -87,6 +87,6 @@ Reality Kings,http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 DDF,http://tvshare.ottrast.com/iptv/BF9GWX8VNPYM9X/6217/index.m3u8
 japanh,http://7e401b76.rossteleccom.net/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6225/index.m3u8
-japanhdv,http://88b9da48.kazmazpaz.ru/iptv/WSMQQSF4M7PGWH/6225/manifest.m3u8
 japanhdv,http://d029dcec.kazmazpaz.ru/iptv/BG3TE5HEQRXENC/6200/manifest.m3u8
+japanhdv,http://88b9da48.kazmazpaz.ru/iptv/WSMQQSF4M7PGWH/6225/manifest.m3u8
 passion,https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
