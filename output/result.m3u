@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/kg7mhzym2f-collab/chat-api666/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-11-06 10:02:12
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-11-07 01:09:04
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -472,9 +472,9 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
-http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
 http://1.192.242.239:8188/rtp/239.16.20.76:10760
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
+http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
 http://171.8.84.49:8800/rtp/239.16.20.76:10760
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
@@ -2454,8 +2454,8 @@ http://tvshare.ottrast.com/iptv/BF9GWX8VNPYM9X/6217/index.m3u8
 #EXTINF:-1 tvg-name="japanh" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/japanh.png" group-title="📡俄语频道",japanh
 http://7e401b76.rossteleccom.net/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6225/index.m3u8
 #EXTINF:-1 tvg-name="japanhdv" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/japanhdv.png" group-title="📡俄语频道",japanhdv
-http://88b9da48.kazmazpaz.ru/iptv/WSMQQSF4M7PGWH/6225/manifest.m3u8
-#EXTINF:-1 tvg-name="japanhdv" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/japanhdv.png" group-title="📡俄语频道",japanhdv
 http://d029dcec.kazmazpaz.ru/iptv/BG3TE5HEQRXENC/6200/manifest.m3u8
+#EXTINF:-1 tvg-name="japanhdv" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/japanhdv.png" group-title="📡俄语频道",japanhdv
+http://88b9da48.kazmazpaz.ru/iptv/WSMQQSF4M7PGWH/6225/manifest.m3u8
 #EXTINF:-1 tvg-name="passion" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/passion.png" group-title="📡俄语频道",passion
 https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
