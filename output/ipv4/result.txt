@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-09 00:33:20,http://171.8.84.49:8800/rtp/239.16.20.2:10020
+2026-11-09 09:25:38,http://171.8.84.49:8800/rtp/239.16.20.2:10020
 
 📺央视频道,#genre#
 CCTV-2,http://171.8.84.49:8800/rtp/239.16.20.2:10020
@@ -23,13 +23,13 @@ CCTV-4K,http://60.4.28.229:8077/rtp/239.253.93.134:6631
 浙江卫视,http://106.59.2.53:55555/udp/239.200.200.141:8724
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://171.8.84.49:8800/rtp/239.16.20.72:10720
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://1.192.242.239:8188/rtp/239.16.20.76:10760
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://171.8.84.49:8800/rtp/239.16.20.76:10760
 湖北卫视,http://171.8.84.49:8800/rtp/239.16.20.87:10870
 安徽卫视,http://171.8.84.49:8800/rtp/239.16.20.75:10750
-重庆卫视,http://1.192.242.239:8188/rtp/239.16.20.79:10790
 重庆卫视,http://171.8.84.49:8800/rtp/239.16.20.79:10790
+重庆卫视,http://1.192.242.239:8188/rtp/239.16.20.79:10790
 东方卫视,http://60.4.28.229:8077/rtp/239.253.92.89:8019
 东方卫视,http://171.8.84.49:8800/rtp/239.16.20.73:10730
 东南卫视,http://171.8.84.49:8800/rtp/239.16.20.82:10820
@@ -82,3 +82,4 @@ Leo HD,http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 Reality Kings,http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 passion,https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
+Кино 18+,https://autopilot.catcast.tv/content/40381/index.m3u8
